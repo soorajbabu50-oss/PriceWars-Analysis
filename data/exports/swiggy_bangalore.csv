@@ -1,0 +1,639 @@
+﻿name,city,area,cuisines_clean,rating_clean,cost_two_clean,visibility_index,Platform,value_for_money
+Leon Grill,Bangalore,Ashok Nagar,"Arabian, Beverages, Desserts, American",4.4,400,30.39852103,Swiggy,0.011
+homely,Bangalore,Koramangala,"Home, Food, North, Indian, South, Indian, Beverages, Chettinad, Combo, Desserts, Hyderabadi, Indian, Lucknowi, Maharashtrian, Mangalorean, Punjabi, Rajasthani, Snacks, Sweets, Thalis",4.3,200,29.70764555,Swiggy,0.0215
+Hotel Navayuga,Bangalore,Majestic,Andhra,4.3,400,19.84501822,Swiggy,0.01075
+The Pizza Bakery,Bangalore,Ashok Nagar,"Italian, Pizzas, Pastas, Desserts",4.4,700,27.35306684,Swiggy,0.006285714
+Beijing Bites,Bangalore,Ashok Nagar,Chinese,4.2,450,26.10974562,Swiggy,0.009333333
+Kabab Magic,Bangalore,Richmond Town,"North, Indian, Chinese",3.3,400,15.22989771,Swiggy,0.00825
+KFC,Bangalore,Ganganagar,"American, Fast, Food, Snacks",3.9,400,26.94414364,Swiggy,0.00975
+The Chariot Veg Restaurant,Bangalore,Ashok Nagar,"Chinese, South, Indian, North, Indian, Desserts, Fast, Food, Punjabi",3.9,400,11.87363751,Swiggy,0.00975
+Chung Wah,Bangalore,Malleswaram,"Chinese, Snacks",4.0,700,24.8664244,Swiggy,0.005714286
+Kanti Sweets,Bangalore,Ashok Nagar,Sweets,4.4,100,17.30003278,Swiggy,0.044
+New Punjabi Hotel,Bangalore,Indiranagar,"North, Indian, Punjabi, Tandoor, Chinese",3.9,250,24.24476379,Swiggy,0.0156
+Shanti Sagar,Bangalore,Sivanchetti Gardens,"South, Indian",4.3,200,29.70764555,Swiggy,0.0215
+Corner House Ice Cream,Bangalore,Ashok Nagar,"Ice, Cream, Desserts",4.7,250,32.47114746,Swiggy,0.0188
+Hari Super Sandwich,Bangalore,3rd Block Jayanagar,"Fast, Food, Chaat, Snacks, Pizzas, North, Indian, Indian",4.0,100,27.63501912,Swiggy,0.04
+Fiero! Pizzeria,Bangalore,Koramangala,"Pizzas, Italian, Pastas, Desserts, Beverages",3.9,400,24.24476379,Swiggy,0.00975
+Truffles,Bangalore,Ashok Nagar,"American, Desserts, Continental, Italian",4.5,450,31.08939651,Swiggy,0.01
+New Shanti Sagar,Bangalore,Rajajinagar,"South, Indian, Chinese, North, Indian, Fast, Food",4.0,200,27.63501912,Swiggy,0.02
+McDonald's,Bangalore,Ashok Nagar,"American, Fast, Food",4.2,400,26.10974562,Swiggy,0.0105
+Pizza Hut,Bangalore,Langford Gardens,"Pizzas, Fast, Food",3.8,600,17.53745796,Swiggy,0.006333333
+Punjabi Rasoi,Bangalore,Indiranagar,"North, Indian",4.1,800,28.3258946,Swiggy,0.005125
+RNR Biryani - Taste of 1953,Bangalore,Jayanagar,"Biryani, South, Indian, Kebabs, Combo, Beverages, Desserts",4.1,350,18.92199412,Swiggy,0.011714286
+Royal Treat,Bangalore,Koramangala,"North, Indian, Chinese, Seafood, Biryani",4.1,193,25.48808501,Swiggy,0.021243523
+Hamza hotel,Bangalore,Shivaji Nagar,"Continental, Fast, Food, Street, Food",4.2,300,29.01677007,Swiggy,0.014
+7 Plates,Bangalore,Benson Town,"Biryani, Chinese, North, Indian",4.3,350,26.73140623,Swiggy,0.012285714
+Roti Ghar,Bangalore,Basavanagudi,"Chinese, South, Indian, North, Indian, Desserts, Fast, Food, Beverages, Mughlai",4.1,400,28.3258946,Swiggy,0.01025
+Mani's Dum Biryani,Bangalore,Sivanchetti Gardens,Biryani,4.3,499,29.70764555,Swiggy,0.008617234
+Hyderabad Biriyani House,Bangalore,Srirampura,"Biryani, Chinese, Hyderabadi, Andhra, Fast, Food",4.2,500,26.10974562,Swiggy,0.0084
+Nagarjuna,Bangalore,Ashok Nagar,"Andhra, South, Indian, Biryani, Combo, Beverages, Desserts",4.4,600,30.39852103,Swiggy,0.007333333
+Gokul Veg,Bangalore,Basavanagudi,"North, Indian, Jain, Indian, Beverages, Desserts",4.3,500,26.73140623,Swiggy,0.0086
+Nandhana Palace,Bangalore,Indiranagar,"Biryani, Andhra, South, Indian, North, Indian",4.1,500,25.48808501,Swiggy,0.0082
+Madeena Hotel,Bangalore,Koramangala,"Biryani, Mughlai, Indian, Beverages",4.1,250,28.3258946,Swiggy,0.0164
+CakeZone,Bangalore,Domlur,"Desserts, Bakery, Sweets, Ice, Cream, Beverages, Juices, Bengali",4.3,200,26.73140623,Swiggy,0.0215
+Vishnu Garden,Bangalore,Ganganagar,"Chinese, South, Indian, North, Indian",4.4,251,30.39852103,Swiggy,0.01752988
+Kerala Food Club,Bangalore,Koramangala,"Kerala, Chinese, Biryani, Seafood, South, Indian",4.2,250,26.10974562,Swiggy,0.0168
+Hotel Moonlight,Bangalore,Malleshwaram,"Indian, Chinese, Biryani, Tandoor",4.1,500,18.92199412,Swiggy,0.0082
+Sri Maruthi Miltry Hotel,Bangalore,Rajajinagar,"Biryani, South, Indian, Combo",3.8,250,23.62310318,Swiggy,0.0152
+New Shanthi Sagar,Bangalore,Jayanagar,"North, Indian, Chinese, Fast, Food",4.1,400,25.48808501,Swiggy,0.01025
+Samosa Party,Bangalore,Ashok Nagar,"Fast, Food, North, Indian, Snacks, Street, Food, Beverages, Chaat",4.5,150,27.97472745,Swiggy,0.03
+Imperial Restaurant,Bangalore,Shivaji Nagar,"Arabian, Chinese, Desserts, Mughlai, North, Indian, Seafood, South, Indian",4.2,400,19.38350617,Swiggy,0.0105
+Call Me Chow,Bangalore,Koramangala,"Chinese, Pan-Asian",4.3,400,29.70764555,Swiggy,0.01075
+Fanoos,Bangalore,Richmond Town,"Biryani, Tandoor, Kebabs, Barbecue, Fast, Food",4.2,300,26.10974562,Swiggy,0.014
+Priyadarshini Restaurant,Bangalore,Gandhinagar,"South, Indian, Desserts, Fast, Food",4.4,150,27.35306684,Swiggy,0.029333333
+Rang De Basanti Dhaba,Bangalore,Domlur,"North, Indian, Kebabs, Biryani, Snacks, Combo, Punjabi, Desserts, Tandoor, Indian",4.2,300,29.01677007,Swiggy,0.014
+La Pino'z Pizza,Bangalore,Basavanagudi,Pizzas,3.9,220,17.99897002,Swiggy,0.017727273
+MEGHDUTH BIRYANIS,Bangalore,Jayanagar,"Andhra, Biryani, South, Indian",4.2,400,19.38350617,Swiggy,0.0105
+South Spicy Bites Xpress,Bangalore,Rajajinagar,"Biryani, Coastal, Mangalorean, Seafood, Chinese, South, Indian",4.2,299,16.51366766,Swiggy,0.014046823
+The Bowl Company,Bangalore,Central Bangalore,"Continental, North, Indian, Pan-Asian, Desserts, American, Asian, Beverages, Biryani, Chinese, Combo, European, Grill, Hyderabadi, Indian, Italian, Kebabs, Lucknowi, Mediterranean, Mexican, Mughlai, Oriental, Pastas, Punjab",4.2,300,29.01677007,Swiggy,0.014
+Domino's Pizza,Bangalore,Central Bangalore,Pizzas,4.1,400,12.48254199,Swiggy,0.01025
+Hotel New Karavali,Bangalore,Banashankari,"North, Indian, Chinese, South, Indian",3.8,250,17.53745796,Swiggy,0.0152
+Karnataka Bhel House,Bangalore,Chamrajpet,Chaat,4.4,100,27.35306684,Swiggy,0.044
+Szechuan Dragon,Bangalore,Banashankari,"Chinese, Thai",4.1,500,25.48808501,Swiggy,0.0082
+Onesta,Bangalore,Indiranagar,"Italian, Desserts, Pizzas, American, Snacks",3.9,200,24.24476379,Swiggy,0.0195
+SLV Corner Restaurant,Bangalore,Shankarapura,"Chinese, South, Indian, North, Indian, Desserts, Fast, Food",4.3,450,29.70764555,Swiggy,0.009555556
+Glen's Bakehouse,Bangalore,Ashok Nagar,"Desserts, Bakery",4.3,500,19.84501822,Swiggy,0.0086
+Paakashala ,Bangalore,Ashok Nagar,"South, Indian, North, Indian, Chinese",4.3,500,19.84501822,Swiggy,0.0086
+99 VARIETY AND DOSA & PAV BHAJI,Bangalore,Koramangala,"South, Indian",4.0,200,24.8664244,Swiggy,0.02
+Rajathadri Food Fort,Bangalore,Jayanagar,"Chinese, South, Indian, North, Indian, Desserts, Fast, Food",4.4,350,30.39852103,Swiggy,0.012571429
+WarmOven Cake & Desserts,Bangalore,Central Bangalore,"Bakery, Desserts, Ice, Cream",4.2,200,19.38350617,Swiggy,0.021
+Venus Biryani,Bangalore,Domlur,Biryani,4.1,200,25.48808501,Swiggy,0.0205
+Manjit Da Dhaba,Bangalore,Cox Town,"North, Indian",4.5,350,31.08939651,Swiggy,0.012857143
+NIC Natural Ice Creams,Bangalore,Pulikeshi Nagar,"Ice, Cream, Desserts",4.6,120,21.22955438,Swiggy,0.038333333
+The Belgian Waffle Co.,Bangalore,Shankarapura,"Desserts, Beverages",4.5,200,20.76804233,Swiggy,0.0225
+Green Onion Chinese,Bangalore,Ashok Nagar,Chinese,4.4,450,27.35306684,Swiggy,0.009777778
+Shree Mahalakshmi Sweets,Bangalore,Chamrajpet,"Sweets, Snacks",4.1,200,18.92199412,Swiggy,0.0205
+Nagarjuna Chimney,Bangalore,Jayanagar,"Seafood, Andhra, Biryani, South, Indian, Combo, Desserts, Beverages",4.2,800,29.01677007,Swiggy,0.00525
+Natraj Chole Bhature,Bangalore,Jayanagar,"Indian, Chaat, Sweets",4.2,299,26.10974562,Swiggy,0.014046823
+Sagar Delicacy,Bangalore,Sivanchetti Gardens,"North, Indian, South, Indian, Chinese",4.3,300,19.84501822,Swiggy,0.014333333
+Biryani by Kilo,Bangalore,Koramangala,"Biryani, Hyderabadi, Lucknowi, Kebabs, Mughlai, North, Indian, Desserts, Beverages",4.1,500,25.48808501,Swiggy,0.0082
+Ancient CHINESE HOUSE,Bangalore,Koramangala,Chinese,4.1,300,18.92199412,Swiggy,0.013666667
+Polar Bear,Bangalore,Shankarapura,"Desserts, Fast, Food",4.5,300,20.76804233,Swiggy,0.015
+MTR,Bangalore,Ashok Nagar,"South, Indian",4.4,300,30.39852103,Swiggy,0.014666667
+A2B Veg,Bangalore,Wilson Garden,"South, Indian, North, Indian, Sweets, Chinese",4.2,300,29.01677007,Swiggy,0.014
+Chopstick,Bangalore,Banashankari,"Chinese, Thai, Seafood, Asian, Combo, Healthy, Food, Beverages",3.8,350,17.53745796,Swiggy,0.010857143
+Andhra Gunpowder,Bangalore,Central Bangalore,"Andhra, Biryani",4.3,400,26.73140623,Swiggy,0.01075
+Chinese BAE,Bangalore,Banashankari,"Chinese, Thai, Seafood, Asian, Combo, Healthy, Food, Beverages",3.7,400,23.00144257,Swiggy,0.00925
+Utse Kitchen,Bangalore,Shivaji Nagar,"Chinese, Tibetan, Nepalese, Pan-Asian",4.2,500,19.38350617,Swiggy,0.0084
+Tibetan Mother's Kitchen,Bangalore,Koramangala,"Chinese, Tibetan, Thai",4.1,250,25.48808501,Swiggy,0.0164
+Dal Roti Sabji,Bangalore,New Tippasandra,"North, Indian",4.5,150,20.76804233,Swiggy,0.03
+Sri Krishna Sagar,Bangalore,Koramangala,"South, Indian, North, Indian, Fast, Food, Beverages, Jain",4.2,126,29.01677007,Swiggy,0.033333333
+Chungs Chinese Corner - Cunningham Road,Bangalore,Vasanth Nagar,"Chinese, Snacks",4.2,450,19.38350617,Swiggy,0.009333333
+The Purple Pan,Bangalore,Rajajinagar,"Mughlai, North, Indian, Chinese, Arabian",4.1,400,28.3258946,Swiggy,0.01025
+Halli Donne Biryani,Bangalore,Koramangala,"South, Indian",3.7,200,14.54775484,Swiggy,0.0185
+Asha Sweets Center,Bangalore,Basavanagudi,Indian,4.3,1000,19.84501822,Swiggy,0.0043
+Veena Stores,Bangalore,Malleshwaram,"South, Indian",4.5,100,31.08939651,Swiggy,0.045
+Uttara karnatakadha Jolada rotti Mattu Chapati Angadi ,Bangalore,Basavanagudi,"South, Indian, Snacks, Indian",4.3,100,19.84501822,Swiggy,0.043
+Taco Bell,Bangalore,Central Bangalore,Mexican,4.2,300,19.38350617,Swiggy,0.014
+Anand Sweets and Savouries,Bangalore,Shivaji Nagar,"Sweets, Chaat, Snacks, Desserts, North, Indian",4.6,200,28.59638806,Swiggy,0.023
+Biryani Canteen,Bangalore,Rajajinagar,"Biryani, Chinese, North, Indian, Tandoor",4.0,400,18.46048207,Swiggy,0.01
+Nando's,Bangalore,Indiranagar,"Fast, Food, Portuguese, African, Grill, Salads",4.3,450,26.73140623,Swiggy,0.009555556
+Sandwich Guru,Bangalore,Basavanagudi,"Snacks, Beverages",4.3,99,19.84501822,Swiggy,0.043434343
+Aroma of Asia,Bangalore,Pulikeshi Nagar,Chinese,4.2,400,19.38350617,Swiggy,0.0105
+Khichdi Experiment,Bangalore,Koramangala,"Home, Food, Indian, Healthy, Food, North, Indian, Snacks, Maharashtrian, Sweets, South, Indian, Combo, Desserts, Beverages, Kebabs",4.5,250,20.76804233,Swiggy,0.018
+Paradise Biryani,Bangalore,Rajajinagar,"Biryani, Kebabs",3.9,400,17.99897002,Swiggy,0.00975
+California Burrito,Bangalore,Central Banglore,"Mexican, American, Salads, Continental, Keto, Healthy, Food",4.5,250,31.08939651,Swiggy,0.018
+Srinidhi Sagar,Bangalore,Indiranagar,"South, Indian, North, Indian, Indian, Chinese, Beverages, Desserts",4.0,200,15.72730253,Swiggy,0.02
+Paratha Experiment,Bangalore,Koramangala,"North, Indian, Punjabi, Home, Food, Indian, Snacks, Combo, Desserts, Beverages, South, Indian, Continental, Chettinad, Healthy, Food, Chinese, Sweets",4.3,200,16.90685022,Swiggy,0.0215
+India Bistro,Bangalore,Indiranagar,"North, Indian, Biryani, Kebabs, Indian, Mughlai, Seafood, Desserts, Beverages",4.4,750,20.30653027,Swiggy,0.005866667
+Sampurna - The House of Southern Flavours,Bangalore,Jogupalya,"South, Indian, Hyderabadi, Andhra, Biryani, Desserts, Snacks",4.2,200,19.38350617,Swiggy,0.021
+Kerala Pavilion,Bangalore,Domlur,"Kerala, Seafood",4.1,300,18.92199412,Swiggy,0.013666667
+Kwality Walls Frozen Dessert and Ice Cream Shop,Bangalore,Basavanagudi,"Ice, Cream",4.5,300,13.70035097,Swiggy,0.015
+Anupams Coast II Coast,Bangalore,Ashok Nagar,"Mangalorean, Chinese, North, Indian, Mughlai, Punjabi, Awadhi",4.0,1200,18.46048207,Swiggy,0.003333333
+Grill Biriyanis,Bangalore,Malleshwaram,"Biryani, Andhra, Tandoor, Grill",3.5,300,13.76138971,Swiggy,0.011666667
+The Betel Leaf Co.,Bangalore,Sampangiram Nagar,"Paan, Desserts",4.5,100,20.76804233,Swiggy,0.045
+Kaati Zone Rolls & Wraps,Bangalore,Kodihalli,"Fast, Food, Beverages, Bengali, Biryani, Indian, North, Indian, Snacks, Street, Food",4.3,150,19.84501822,Swiggy,0.028666667
+Treat,Bangalore,Indiranagar,"Mughlai, North, Indian",4.5,800,20.76804233,Swiggy,0.005625
+Baskin Robbins,Bangalore,Ashok Nagar,Desserts,4.4,400,17.30003278,Swiggy,0.011
+Upahara Darshini KIMS Canteen,Bangalore,VV Puram,"South, Indian, North, Indian, Desserts, Chinese",4.4,400,13.39589873,Swiggy,0.011
+Shree Veerabhadreshwara Rotti Holige Mane,Bangalore,Rajajinagar,"South, Indian",4.1,200,18.92199412,Swiggy,0.0205
+Art Of Delight,Bangalore,Ashok Nagar,"Ice, Cream, Desserts, Beverages",4.6,250,21.22955438,Swiggy,0.0184
+In Wok,Bangalore,Richmond Town,Chinese,4.3,500,19.84501822,Swiggy,0.0086
+Tadka Singh,Bangalore,Ashok Nagar,"Punjabi, North, Indian",4.2,300,19.38350617,Swiggy,0.014
+The Dessert Zone,Bangalore,Central Bangalore,"Bakery, Desserts, Ice, Cream, Beverages",3.9,200,11.87363751,Swiggy,0.0195
+Malabar Biriyani World,Bangalore,Adugodi,"Biryani, Kerala, Seafood",4.3,250,13.09144648,Swiggy,0.0172
+Burger Seigneur,Bangalore,Ashok Nagar,"American, Beverages",4.3,1200,19.84501822,Swiggy,0.003583333
+Shanthi Sagar Grand,Bangalore,Malleshwaram,"North, Indian, South, Indian, Fast, Food",4.0,200,18.46048207,Swiggy,0.02
+Airlines Hotel,Bangalore,Ashok Nagar,"South, Indian, North, Indian",4.3,500,19.84501822,Swiggy,0.0086
+Behrouz Biryani,Bangalore,Shantinagar,"Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, North, Indian, Persian, Desserts",4.3,500,19.84501822,Swiggy,0.0086
+Subway,Bangalore,Ashok Nagar,"Fast, Food, Salads, Snacks, Desserts, Beverages",4.4,350,20.30653027,Swiggy,0.012571429
+Palmgrove Ballal Residency,Bangalore,Ashok Nagar,"Chinese, Coastal, Desserts, Fast, Food, Jain, North, Indian, South, Indian",4.4,400,20.30653027,Swiggy,0.011
+Jalpaan,Bangalore,Jayanagar,"Desserts, Italian, Jain, Mexican",4.4,650,20.30653027,Swiggy,0.006769231
+BOX8 - Desi Meals,Bangalore,New Tippasandra,"North, Indian, Biryani, Combo, Snacks",4.1,250,18.92199412,Swiggy,0.0164
+1947 Restaurant,Bangalore,Malleshwaram,"North, Indian, Chinese, Desserts, Biryani",4.4,900,20.30653027,Swiggy,0.004888889
+The Fatty Bao,Bangalore,Ashok Nagar,Asian,4.3,1000,19.84501822,Swiggy,0.0043
+Suzy Q by 1522,Bangalore,Central Bangalore,"Continental, Indian, Seafood, Asian, Chaat, Desserts",4.3,800,13.09144648,Swiggy,0.005375
+Makers of Milkshakes,Bangalore,Koramangala,"Beverages, Desserts",4.2,260,16.51366766,Swiggy,0.016153846
+Darjeeling Hot Momos,Bangalore,Koramangala,Chinese,4.2,250,19.38350617,Swiggy,0.0168
+Krispy Kreme,Bangalore,Victoria Layout,"Desserts, Beverages",4.7,170,21.69106643,Swiggy,0.027647059
+Sreeraj Lassi Bar,Bangalore,Shivaji Nagar,"Juices, Desserts",4.2,250,12.78699424,Swiggy,0.0168
+Brik Oven,Bangalore,Ashok Nagar,"Pizzas, Italian, Desserts, Beverages",4.5,1000,20.76804233,Swiggy,0.0045
+Ice Thunder - Balaji's Veg,Bangalore,Basavanagudi,"South, Indian, North, Indian, Chinese, Desserts, Fast, Food, Thalis",3.8,200,17.53745796,Swiggy,0.019
+Tandoori Taal,Bangalore,Sampangi Rama Nagar,Indian,4.5,700,20.76804233,Swiggy,0.006428571
+Esplanade,Bangalore,Indiranagar,"Mughlai, Bengali",4.3,1200,19.84501822,Swiggy,0.003583333
+Cream Stone,Bangalore,Pulikeshi Nagar,"Ice, Cream, Desserts, Beverages",4.3,400,19.84501822,Swiggy,0.01075
+Paratha Envy,Bangalore,Central Bangalore,"North, Indian",4.4,400,20.30653027,Swiggy,0.011
+Subbudus The SnackStop ( Eswaris Homemade snacks ),Bangalore,Indiranagar,"Sweets, Snacks, Indian",4.8,150,14.6137077,Swiggy,0.032
+Nizam's Kitchens,Bangalore,Koramangala,"Biryani, Andhra, Hyderabadi, South, Indian, North, Indian, Tandoor, Beverages, Desserts",4.1,450,16.12048509,Swiggy,0.009111111
+Punjab Express,Bangalore,Central Bangalore,"North, Indian",4.1,300,18.92199412,Swiggy,0.013666667
+Mamagoto,Bangalore,Indiranagar,"Chinese, Asian, Pan-Asian, Thai, Oriental",4.2,900,19.38350617,Swiggy,0.004666667
+Kota Kachori And Falahaar,Bangalore,Domlur,"Chaat, North, Indian, Snacks, Rajasthani, Sweets, Desserts, Beverages",4.1,15,28.3258946,Swiggy,0.273333333
+Dice N Dine,Bangalore,Koramangala,"American, Asian, Chinese, Continental, Desserts, Italian, Jain, Mexican",4.0,500,24.8664244,Swiggy,0.008
+Andhra Ruchulu,Bangalore,Jayanagar,"Andhra, Chettinad, Chinese, Desserts, North, Indian, Seafood",4.2,500,19.38350617,Swiggy,0.0084
+Sattvam,Bangalore,Armane Nagar,"Chinese, South, Indian, North, Indian, Continental, Desserts, Italian",4.2,1200,19.38350617,Swiggy,0.0035
+AL- BEK,Bangalore,Rajajinagar,"Mughlai, North, Indian",3.9,400,17.99897002,Swiggy,0.00975
+SWATHI RESTAURANT,Bangalore,Malleshwaram,Indian,4.3,300,13.09144648,Swiggy,0.014333333
+SMOOR,Bangalore,Ashok Nagar,"Desserts, Asian, Beverages, Bakery, Italian, Continental, Pizzas, Italian-American",4.3,300,19.84501822,Swiggy,0.014333333
+SRI RAJARAJESHWARI IYER MESS,Bangalore,Malleshwaram,"South, Indian",4.4,200,20.30653027,Swiggy,0.022
+Rosy Roti,Bangalore,Domlur,"Home, Food, North, Indian, Punjabi, Snacks, Combo, Desserts",4.4,200,20.30653027,Swiggy,0.022
+Sri Udupi Food Hub,Bangalore,Jayanagar - 3rd Block,"South, Indian, North, Indian, Indian, Chinese, Fast, Food, Combo, Chaat, Ice, Cream, Desserts, Beverages",4.3,199,26.73140623,Swiggy,0.02160804
+Biryani Blues,Bangalore,Church Street,"Biryani, Kebabs, Lucknowi, Hyderabadi",4.2,400,16.51366766,Swiggy,0.0105
+Mainland China,Bangalore,Ashok Nagar,"Chinese, Oriental, Thai, Pan-Asian, Seafood, Asian, Desserts",4.3,850,19.84501822,Swiggy,0.005058824
+Big Bowl Company,Bangalore,Koramangala,"North, Indian, Chinese, Biryani, Fast, Food",4.1,250,18.92199412,Swiggy,0.0164
+Sharief Bhai,Bangalore,Pulikeshi Nagar,"Biryani, North, Indian, Kebabs, Mughlai, Grill, Fast, Food, Beverages, Combo, Sweets, Desserts",4.1,400,28.3258946,Swiggy,0.01025
+Bhartiya Jalpan,Bangalore,Shivaji Nagar,"North, Indian, Fast, Food, Punjabi, Beverages, Desserts",4.3,270,26.73140623,Swiggy,0.015925926
+Marwadi Chaat & Tiffin Services Shanti nagar,Bangalore,Shanti Nagar,"North, Indian",3.9,300,17.99897002,Swiggy,0.013
+Kailash Parbat,Bangalore,Armane Nagar,"Fast, Food, North, Indian, Street, Food",4.2,300,26.10974562,Swiggy,0.014
+Vidyarthi Bhavan,Bangalore,Gandhi Bazaar,"South, Indian",4.3,150,29.70764555,Swiggy,0.028666667
+Raidan,Bangalore,R.T. Nagar,"Arabian, Chinese, Fast, Food, Beverages, Mughlai",3.9,400,17.99897002,Swiggy,0.00975
+Suchi Ruchi,Bangalore,Malleshwaram,"South, Indian, Chinese, Chaat, North, Indian, Fast, Food, Snacks",4.0,200,24.8664244,Swiggy,0.02
+Anjappar,Bangalore,Ashok Nagar,"Chettinad, Thalis, Biryani, Chinese, Tandoor, South, Indian, North, Indian",4.1,400,18.92199412,Swiggy,0.01025
+FreshMenu,Bangalore,Richmond Town,"Chinese, Continental, Italian, Mediterranean, Thai, Lebanese, American, Asian, Beverages, Bakery, Biryani, Desserts, Mexican, North, Indian, Salads, Pizzas",4.1,250,28.3258946,Swiggy,0.0164
+Hyderabad Biryaani House,Bangalore,Victoria Layout,Indian,4.3,499,19.84501822,Swiggy,0.008617234
+Richie Rich,Bangalore,Seshadripuram,"Desserts, Snacks, Chaat, Ice, Cream",4.4,500,27.35306684,Swiggy,0.0088
+Yumlane Pizza,Bangalore,Central Bangalore,"Pizzas, Beverages, Desserts, Snacks",3.9,300,17.99897002,Swiggy,0.013
+Tandoor Hut,Bangalore,Koramangala,"Biryani, Chinese, North, Indian, South, Indian",4.4,300,20.30653027,Swiggy,0.014666667
+Sagar Restaurant,Bangalore,Seshadripuram,"Chinese, South, Indian, North, Indian",4.3,500,19.84501822,Swiggy,0.0086
+RUMI,Bangalore,Indiranagar,"Indian, North, Indian, Awadhi, Mughlai, Kebabs, Biryani",4.0,500,18.46048207,Swiggy,0.008
+Sardarji Londonwaley,Bangalore,Koramangala,"Indian, North, Indian, Punjabi, Chinese, Biryani",4.0,350,24.8664244,Swiggy,0.011428571
+Main Lassi Shop,Bangalore,Shivaji Nagar,"Beverages, Juices, Ice, Cream, Pizzas, Desserts",3.8,250,17.53745796,Swiggy,0.0152
+ARAMANE DONNE BIRIYANI,Bangalore,Koramangala,Indian,4.3,300,19.84501822,Swiggy,0.014333333
+Ambur Star Briyani Since 1890,Bangalore,Indiranagar,"Biryani, Chettinad, Andhra, Beverages, Seafood",4.3,600,29.70764555,Swiggy,0.007166667
+Asha Food Camp,Bangalore,Malleshwaram,"Indian, Beverages, Biryani, Chinese, Desserts, Ice, Cream, Juices, Tandoor, North, Indian, Street, Food, Chaat, South, Indian",4.5,250,27.97472745,Swiggy,0.018
+Karama,Bangalore,Pulikeshi Nagar,"Arabian, Biryani, Desserts, Mughlai, North, Indian",4.2,400,26.10974562,Swiggy,0.0105
+EatFit,Bangalore,Central Bangalore,"Healthy, Food, Pizzas, North, Indian, Thalis, Biryani",4.4,270,27.35306684,Swiggy,0.016296296
+Karnataka biryani point,Bangalore,Srirampura,Biryani,4.1,250,18.92199412,Swiggy,0.0164
+Swathi Greenland,Bangalore,Vijayanagar,"Chinese, North, Indian, Desserts, Andhra, Beverages, Seafood, Punjabi, Hyderabadi",4.4,400,17.30003278,Swiggy,0.011
+Dhaba Estd 1986 Delhi,Bangalore,Indiranagar,"Biryani, Hyderabadi, North, Indian, Indian, Tandoor, Punjabi",4.2,900,19.38350617,Swiggy,0.004666667
+Uttara Karnataka Jolad Rotti & Chapathi Store,Bangalore,Shankarapura,"South, Indian",4.0,200,18.46048207,Swiggy,0.02
+The Salad Studio,Bangalore,Indiranagar,"Healthy, Food, Salads, Cafe, Fast, Food, Beverages",4.4,300,20.30653027,Swiggy,0.014666667
+Church Street Social,Bangalore,Ashok Nagar,"Indian, Chinese, South, Indian, American, Fast, Food, Kebabs, Mughlai, Biryani, Combo",4.2,500,19.38350617,Swiggy,0.0084
+Mad Over Donuts,Bangalore,Ashok Nagar,"Desserts, Sweets, Bakery",4.2,200,16.51366766,Swiggy,0.021
+ITC Gardenia - Flavours,Bangalore,Ashok Nagar,"Indian, Continental, North, Indian, Biryani, Desserts",4.2,1000,12.78699424,Swiggy,0.0042
+Sri Udupi Grand Veg,Bangalore,Shanti Nagar,"Beverages, North, Indian, South, Indian",4.1,250,18.92199412,Swiggy,0.0164
+Om Shiva Shakthi chats center,Bangalore,Basavanagudi,"Fast, Food, Chaat, Beverages",4.4,150,17.30003278,Swiggy,0.029333333
+Oven Story Pizza,Bangalore,Shantinagar,Pizzas,4.1,600,18.92199412,Swiggy,0.006833333
+BASAVESHWAR KHANAVALI,Bangalore,Jayanagar,Indian,4.2,300,19.38350617,Swiggy,0.014
+New Krishna Sagar,Bangalore,New Tippasandra,"South, Indian, North, Indian, Chinese, Snacks",4.1,100,16.12048509,Swiggy,0.041
+Voosh Thalis & Bowls,Bangalore,Basavanagudi,"North, Indian, Home, Food, Indian, Beverages, Thalis, Combo",3.5,199,13.76138971,Swiggy,0.01758794
+Malleshwaram dose corner,Bangalore,Malleshwaram,"South, Indian, Snacks",4.4,120,27.35306684,Swiggy,0.036666667
+Altaf's Chillies Restaurants,Bangalore,Cooke Town,"North, Indian, Chinese",4.3,250,26.73140623,Swiggy,0.0172
+Momoz,Bangalore,Banashankari,"Chinese, Thai, Seafood, Asian, Combo, Malaysian",3.8,350,23.62310318,Swiggy,0.010857143
+Hotel Dwarka,Bangalore,Basavanagudi,"South, Indian",4.4,200,30.39852103,Swiggy,0.022
+Great Indian Khichdi,Bangalore,Rajajinagar,"Indian, Home, Food, Healthy, Food, Snacks",4.2,200,26.10974562,Swiggy,0.021
+Magnolia Bakery,Bangalore,Indiranagar,"Desserts, Bakery, Ice, Cream",4.6,500,21.22955438,Swiggy,0.0092
+RS Shiv Sagar,Bangalore,Seshadripuram,"North, Indian, Chinese, South, Indian, Mexican",4.3,500,19.84501822,Swiggy,0.0086
+Fresh Bites,Bangalore,Indiranagar,"North, Indian, South, Indian, Chinese, Fast, Food, Juices, Tandoor",4.1,200,25.48808501,Swiggy,0.0205
+Kim Lee,Bangalore,Jogupalya,Chinese,4.4,650,20.30653027,Swiggy,0.006769231
+Theobroma,Bangalore,Central Bangalore,"Desserts, Bakery, Beverages",4.5,500,27.97472745,Swiggy,0.009
+Happy Platter,Bangalore,Rajajinagar,"Chinese, Combo, Italian, Pastas, Snacks",4.0,300,18.46048207,Swiggy,0.013333333
+Delicacy,Bangalore,Pulikeshi Nagar,"Chinese, Thai",4.2,400,26.10974562,Swiggy,0.0105
+HUNGRY CHANG,Bangalore,Koramangala,"Chinese, Fast, Food, Pan-Asian, Combo",3.8,280,17.53745796,Swiggy,0.013571429
+Gudbud,Bangalore,Koramangala,"Ice, Cream, Desserts",4.6,300,28.59638806,Swiggy,0.015333333
+New kadai restaurant,Bangalore,Ganganagar,"Tandoor, Chinese, Juices, Ice, Cream",4.1,400,18.92199412,Swiggy,0.01025
+Food Paradise,Bangalore,Malleshwaram,"Mughlai, North, Indian, Chinese, Fast, Food",3.9,326,17.99897002,Swiggy,0.01196319
+Punjabi Unplugged,Bangalore,Koramangala,"North, Indian, Chinese, Indian, Mughlai",3.9,300,24.24476379,Swiggy,0.013
+Dock Frost'd -Ice Cream & Milkshakes,Bangalore,Koramangala,"Desserts, Ice, Cream, Beverages",4.4,250,27.35306684,Swiggy,0.0176
+Chung Wah Opus,Bangalore,Jayanagar,"Chinese, Pan-Asian",3.8,300,17.53745796,Swiggy,0.012666667
+Kamat Bugle Rock,Bangalore,Basavanagudi,"North, Indian, South, Indian",4.4,400,20.30653027,Swiggy,0.011
+Barbeque Nation,Bangalore,Domlur,"North, Indian, Mughlai, Seafood, Biryani, Desserts, Kebabs",3.8,600,14.9409374,Swiggy,0.006333333
+GREEN CHILLY,Bangalore,Rajajinagar,"Chinese, North, Indian, Indian",4.3,300,19.84501822,Swiggy,0.014333333
+M/s. SUKHSAGAR HOTEL GANDHINAGAR,Bangalore,Gandhi Nagar,"North, Indian",4.2,200,16.51366766,Swiggy,0.021
+DELHI CHAAT HOUSE,Bangalore,Indiranagar,"Chaat, Indian",3.6,225,10.96028078,Swiggy,0.016
+Savoury,Bangalore,Pulikeshi Nagar,"Biryani, Mughlai, Kebabs, Desserts",4.4,800,30.39852103,Swiggy,0.0055
+The Congee Concept,Bangalore,Indiranagar,"South, Indian",4.6,300,21.22955438,Swiggy,0.015333333
+Pipabu,Bangalore,Koramangala,"Pizzas, Italian, American, Continental, Salads, Desserts",4.0,250,24.8664244,Swiggy,0.016
+YUM YUM KOLKATA,Bangalore,Indiranagar,"Bengali, Indian, Chinese",4.4,400,20.30653027,Swiggy,0.011
+Bikaner Sweets,Bangalore,Jayanagar,Sweets,3.7,99,11.26473302,Swiggy,0.037373737
+Candice's Gourmet Sandwiches,Bangalore,Indiranagar,"Continental, American",4.4,650,20.30653027,Swiggy,0.006769231
+Bheemavarma's Biryani,Bangalore,Indiranagar,"Biryani, Andhra, Chettinad, South, Indian, Hyderabadi, Kebabs, Combo",4.2,600,16.51366766,Swiggy,0.007
+Rice Spice & That Thing Nice,Bangalore,Indiranagar,"Kerala, Combo, Indian, Beverages",4.2,500,19.38350617,Swiggy,0.0084
+Keventers Ice Creamery,Bangalore,Koramangala,"Ice, Cream, Desserts",4.9,200,14.91815994,Swiggy,0.0245
+ATH - All Things Healthy!,Bangalore,Indiranagar,"Healthy, Food, Indian, Bakery, Snacks, North, Indian, Keto",4.5,200,20.76804233,Swiggy,0.0225
+South Ruchi's,Bangalore,Chickpet,"Chinese, Fast, Food, North, Indian, South, Indian",4.0,150,12.17808975,Swiggy,0.026666667
+The Biryani Experiment,Bangalore,Indiranagar,"Biryani, Hyderabadi, Indian, Kebabs, North, Indian, South, Indian, Andhra, Afghani, Combo, Desserts, Beverages, Punjabi, Kerala, Sweets, Arabian, Lucknowi, Parsi, Tandoor",3.9,500,17.99897002,Swiggy,0.0078
+NOTO - Healthy Ice Cream,Bangalore,Rajajinagar,"Ice, Cream, Healthy, Food, Desserts",4.3,250,19.84501822,Swiggy,0.0172
+Khan Saheb Grills and Rolls,Bangalore,Commercial Street,"Tandoor, Mughlai, North, Indian, Kebabs",4.3,300,16.90685022,Swiggy,0.014333333
+The Higher Taste Stores - ISKCON,Bangalore,Malleshwaram,"Sweets, Fast, Food, North, Indian, Italian, Beverages, Desserts",4.4,200,27.35306684,Swiggy,0.022
+Responsible Biryani,Bangalore,Indiranagar,"Biryani, North, Indian, Mughlai, Tandoor, Kebabs",4.2,450,16.51366766,Swiggy,0.009333333
+BurgerHaus Gourmet Burgers,Bangalore,Indiranagar,"American, Continental, Beverages, Desserts",3.9,600,17.99897002,Swiggy,0.0065
+Sendhoor Coffee,Bangalore,Cambridge layout,"South, Indian, Indian, Beverages",4.3,200,29.70764555,Swiggy,0.0215
+Dwarkamai Pure Veg Restaurant,Bangalore,Basavanagudi,"North, Indian, Chinese, Tandoor",4.1,400,18.92199412,Swiggy,0.01025
+Sai cafe veg,Bangalore,Malleshwaram,"South, Indian",4.3,250,19.84501822,Swiggy,0.0172
+S R BIRIYANI HOUSE,Bangalore,Indiranagar,"Biryani, Indian",2.7,150,8.220210582,Swiggy,0.018
+Maven Kitchen,Bangalore,Viveka Nagar,"Naga, Chinese",4.6,199,21.22955438,Swiggy,0.023115578
+Third Wave Coffee,Bangalore,Ashok Nagar,"Beverages, Bakery, Continental",4.4,400,20.30653027,Swiggy,0.011
+The Momo Co.,Bangalore,Koramangala,"Chinese, Pan-Asian, Tibetan",3.8,250,14.9409374,Swiggy,0.0152
+Pathaan Sir,Bangalore,Pulikeshi Nagar,"Fast, Food",4.2,300,19.38350617,Swiggy,0.014
+Auntie Fungs,Bangalore,Indiranagar,"Chinese, Thai, Asian",4.0,600,18.46048207,Swiggy,0.006666667
+MiMi Takeout by Taiki,Bangalore,Jayanagar,"Chinese, Asian, Thai",4.4,850,13.39589873,Swiggy,0.005176471
+Aalishan Restaurant & Caterer,Bangalore,Koramangala,"Mughlai, North, Indian",4.3,290,19.84501822,Swiggy,0.014827586
+Oh! Calcutta,Bangalore,Ashok Nagar,Bengali,4.3,800,19.84501822,Swiggy,0.005375
+Rolls Kitchen,Bangalore,Langford Gardens,"Fast, Food",4.4,200,27.35306684,Swiggy,0.022
+The Sugar Free Keto Kafe - By Artinci,Bangalore,Domlur,"Ice, Cream, Healthy, Food, Keto, Desserts, Snacks, Beverages, Bakery",4.7,200,18.47958047,Swiggy,0.0235
+Karnataka Bhel House,Bangalore,Malleshwaram,"Chaat, Snacks",4.2,100,16.51366766,Swiggy,0.042
+Gopaljee Cafe,Bangalore,Koramangala,"Indian, North, Indian, Fast, Food",4.3,350,19.84501822,Swiggy,0.012285714
+Punjab Mail,Bangalore,Malleshwaram,"North, Indian, Punjabi, Thalis, Chinese, Combo, Snacks",4.1,300,18.92199412,Swiggy,0.013666667
+ITC Sunfeast Baked Creations,Bangalore,Cox Town,"Bakery, Desserts",4.6,600,21.22955438,Swiggy,0.007666667
+ITC Master Chef Creations,Bangalore,Cox Town,"North, Indian, Indian, Punjabi, Biryani, Chaat, Kebabs, Tandoor, Mughlai, Combo, Desserts",4.4,650,27.35306684,Swiggy,0.006769231
+Yelneer Katte,Bangalore,Basavanagudi,Beverages,3.4,130,10.35137629,Swiggy,0.026153846
+Ketogenic Foods,Bangalore,Vasanth Nagar,"Continental, Desserts, Healthy, Food",4.2,1200,12.78699424,Swiggy,0.0035
+Nisarga Garden,Bangalore,Basavanagudi,"North, Indian, South, Indian, Chaat, Beverages",4.1,200,18.92199412,Swiggy,0.0205
+Skoosh Bubble Tea,Bangalore,Basavanagudi,Beverages,4.4,300,13.39589873,Swiggy,0.014666667
+Green G Juice Bar,Bangalore,Indiranagar,"Beverages, Continental, Desserts",4.2,200,12.78699424,Swiggy,0.021
+ITC Windsor - Gourmet Couch,Bangalore,Vasanth Nagar,"North, Indian, Mughlai, Biryani, Grill, Seafood, Kebabs, Desserts",4.5,2500,13.70035097,Swiggy,0.0018
+Deja Bowl,Bangalore,Domlur,"North, Indian, Home, Food, Combo, Desserts, Indian, Punjabi, Chinese",4.2,300,12.78699424,Swiggy,0.014
+Kitchen of Joy,Bangalore,Indiranagar,"Bengali, Fast, Food, Chinese",4.4,250,20.30653027,Swiggy,0.0176
+Davanagere Benne Dose,Bangalore,Jayanagar,"South, Indian",4.1,120,18.92199412,Swiggy,0.034166667
+Taste Of Tibet,Bangalore,Central Bangalore,Chinese,4.6,250,18.08639791,Swiggy,0.0184
+154 Breakfast Club,Bangalore,Koramangala,"Continental, American",4.4,1000,20.30653027,Swiggy,0.0044
+Dr.Gelato,Bangalore,Indiranagar,Desserts,4.5,300,17.69321535,Swiggy,0.015
+Goodness Grills,Bangalore,Richmond Town,"Healthy, Food, Continental, Keto, Indian, Salads",3.8,350,17.53745796,Swiggy,0.010857143
+Vegan kitchen - By Infinitea,Bangalore,Indiranagar,"Continental, Desserts, Italian, Healthy, Food",4.5,1200,13.70035097,Swiggy,0.00375
+Juice Shop,Bangalore,Rajajinagar,"Juices, Beverages, Desserts, Ice, Cream",3.8,150,17.53745796,Swiggy,0.025333333
+RCB Bar & Cafe,Bangalore,Ashok Nagar,"Indian, Asian, Continental",4.3,750,16.90685022,Swiggy,0.005733333
+Biggies Burger 'n' More,Bangalore,Ashok Nagar,"Fast, Food, American, Attractive, Combos, Available, Beverages, Combo, Desserts, Snacks",4.1,300,16.12048509,Swiggy,0.013666667
+Say Cheese! Pizza,Bangalore,Indiranagar,"Pizzas, Italian, Desserts, Pastas",3.4,400,10.35137629,Swiggy,0.0085
+Chai Point,Bangalore,Ashok Nagar,"Bakery, Combo, Beverages, Maharashtrian, Snacks, Street, Food, South, Indian, Punjabi, Fast, Food",4.5,150,27.97472745,Swiggy,0.03
+BTR - Bhatinda Tiffin Room,Bangalore,Malleshwaram,"North, Indian, Thalis, Punjabi, Combo",4.1,250,18.92199412,Swiggy,0.0164
+Chetty's Corner,Bangalore,Chickpet,"Fast, Food",4.0,200,12.17808975,Swiggy,0.02
+Thalaivars Biryani,Bangalore,Central Bangalore,"Biryani, Indian",4.3,200,19.84501822,Swiggy,0.0215
+Hakkachow,Bangalore,Ashok Nagar,Asian,4.1,500,12.48254199,Swiggy,0.0082
+Sriracha,Bangalore,Ashok Nagar,Asian,4.0,1600,12.17808975,Swiggy,0.0025
+Sanchez,Bangalore,Ashok Nagar,"Mexican, Salads",4.7,1200,14.30925546,Swiggy,0.003916667
+Chaipatty,Bangalore,Indiranagar,"Fast, Food, Beverages, Pizzas, Street, Food, Snacks",3.9,200,15.33411997,Swiggy,0.0195
+Shehzadas Biryani,Bangalore,Koramangala,"Biryani, Hyderabadi, Andhra, North, Indian, South, Indian, Tandoor, Chinese, Seafood",4.2,350,12.78699424,Swiggy,0.012
+Smoke House Deli,Bangalore,Ashok Nagar,"European, Italian, American, Pastas, Salads, Juices, Desserts, Combo",4.5,800,27.97472745,Swiggy,0.005625
+New Agarwal Bhavan,Bangalore,Malleshwaram,"Bakery, Sweets, Snacks",4.2,150,19.38350617,Swiggy,0.028
+Sri Ganesh Juice Center,Bangalore,New Tippasandra,Beverages,4.5,200,17.69321535,Swiggy,0.0225
+Breakfast Express,Bangalore,Indiranagar,"Continental, North, Indian, South, Indian, American, Beverages, British, Cafe, Combo, European, Desserts",4.2,200,26.10974562,Swiggy,0.021
+Bombay Kulfi,Bangalore,Sudhama Nagar,"Desserts, Ice, Cream",3.9,100,15.33411997,Swiggy,0.039
+Lassi Corner,Bangalore,Koramangala,"Beverages, Ice, Cream",3.3,199,10.04692404,Swiggy,0.016582915
+Hotel Revoli Inn,Bangalore,Sudhama Nagar,"Indian, Chinese, Tandoor, South, Indian",4.0,400,15.72730253,Swiggy,0.01
+Dadi Di Rasoi,Bangalore,Shanti Nagar,"North, Indian",3.7,200,11.26473302,Swiggy,0.0185
+Sree Venkateshwara Foods,Bangalore,Indiranagar,"Hyderabadi, Andhra, Continental",3.8,500,14.9409374,Swiggy,0.0076
+XO Belgian Waffle,Bangalore,Koramangala,Desserts,4.3,250,19.84501822,Swiggy,0.0172
+Bangalore Mandarin,Bangalore,Indiranagar,Chinese,4.3,800,26.73140623,Swiggy,0.005375
+Snack A Way by ITC Master Chef,Bangalore,Cox Town,"Fast, Food, Mughlai, Lebanese, Chaat, Snacks, Desserts",4.0,450,12.17808975,Swiggy,0.008888889
+Tandoor and Tadka,Bangalore,Indiranagar,"North, Indian, Tandoor, Chinese",3.8,250,14.9409374,Swiggy,0.0152
+Rajasthani Dhaba,Bangalore,Shanti Nagar,"North, Indian",3.8,200,17.53745796,Swiggy,0.019
+Hotel Tom's Restaurant,Bangalore,Ashok Nagar,"Mangalorean, Biryani, Seafood, Chinese, North, Indian, Desserts, South, Indian, Combo",4.4,400,20.30653027,Swiggy,0.011
+Hungry Panda - Deliciously Chinese,Bangalore,Indiranagar,"Chinese, Asian, Thai",3.2,600,9.742471801,Swiggy,0.005333333
+The Fast Food,Bangalore,Malleshwaram,Indian,4.3,150,16.90685022,Swiggy,0.028666667
+Cantan,Bangalore,Ashok Nagar,"Chinese, Asian, Vietnamese, Pan-Asian, Seafood, Desserts",4.5,1000,20.76804233,Swiggy,0.0045
+Juice Junction,Bangalore,Ashok Nagar,"Juices, Fast, Food",4.5,150,20.76804233,Swiggy,0.03
+The Empire Juice Shop,Bangalore,Ashok Nagar,"Juices, Ice, Cream",3.5,200,10.65582853,Swiggy,0.0175
+Portland Steak House,Bangalore,Ashok Nagar,"American, European",4.1,1500,16.12048509,Swiggy,0.002733333
+Shawarma Time,Bangalore,J.C.Nagar,Arabian,4.3,150,16.90685022,Swiggy,0.028666667
+Goli Vada Pav No .1,Bangalore,Indiranagar,"Maharashtrian, North, Indian, Fast, Food, Street, Food",4.4,100,20.30653027,Swiggy,0.044
+1131 BAR+KITCHEN,Bangalore,Indiranagar,Indian,3.9,1200,11.87363751,Swiggy,0.00325
+Wow! China,Bangalore,Ashok Nagar,"Tibetan, Chinese, Asian, Snacks, Continental, Desserts, Beverages",3.7,300,17.07594591,Swiggy,0.012333333
+Blue Tokai Coffee Roasters,Bangalore,Shivaji Nagar,"Healthy, Food, American, Lebanese, Mediterranean, European, Juices, Middle, Eastern",4.7,800,18.47958047,Swiggy,0.005875
+Sheeshkebab,Bangalore,Pulikeshi Nagar,"Persian, Arabian, Indian, Middle, Eastern, Biryani",4.2,600,19.38350617,Swiggy,0.007
+Vallari Roti and Snacks Ghar,Bangalore,Malleshwaram,Indian,4.4,250,17.30003278,Swiggy,0.0176
+Cake Pastries,Bangalore,Rajajinagar,Bakery,3.9,500,11.87363751,Swiggy,0.0078
+Salad Matters,Bangalore,Koramangala,"Salads, Healthy, Food, Desserts, Beverages",4.5,550,20.76804233,Swiggy,0.008181818
+Tunday Kababi,Bangalore,Koramangala,"Mughlai, Lucknowi",4.1,300,18.92199412,Swiggy,0.013666667
+Via Milano,Bangalore,Jayanagar,"Pizzas, Italian, European, Mediterranean, Pastas, Continental, Seafood, Middle, Eastern, Grill, Greek, Salads, Oriental",4.5,800,13.70035097,Swiggy,0.005625
+Keventers - Milkshakes and Desserts,Bangalore,Central Bangalore,"Beverages, Ice, Cream, Desserts, Healthy, Food",4.4,300,17.30003278,Swiggy,0.014666667
+Terra Bites,Bangalore,Koramangala,"Continental, American, Italian, Mexican",4.4,700,13.39589873,Swiggy,0.006285714
+BASMATI'S BRIYANI NATION,Bangalore,Koramangala,"Biryani, Andhra, Hyderabadi, South, Indian, North, Indian, Tandoor, Beverages, Desserts",3.4,300,10.35137629,Swiggy,0.011333333
+LOT LIKE CREPES INDIRANAGAR,Bangalore,Indiranagar,"French, American, Italian, Desserts",4.3,500,16.90685022,Swiggy,0.0086
+Uday Sweets,Bangalore,Koramangala,"Fast, Food",3.9,100,15.33411997,Swiggy,0.039
+China Pearl,Bangalore,Koramangala,"Chinese, Asian",4.5,1100,31.08939651,Swiggy,0.004090909
+The Dessert Corner,Bangalore,Indiranagar,"Bakery, Desserts",4.5,200,13.70035097,Swiggy,0.0225
+ROYCE' Chocolate,Bangalore,Ulsoor,"Desserts, Sweets, Snacks",4.9,750,14.91815994,Swiggy,0.006533333
+Yum In My Tum,Bangalore,Koramangala,"Chinese, Continental, Beverages, Pizzas, Italian, North, Indian, Pastas, Desserts, Tibetan, Healthy, Food",3.9,200,24.24476379,Swiggy,0.0195
+Amma's Pastries,Bangalore,Frazer Town,"Bakery, Desserts",4.4,350,17.30003278,Swiggy,0.012571429
+NH8,Bangalore,Indiranagar,"Rajasthani, Gujarati, North, Indian, Snacks, Desserts, Beverages, Thalis, Chaat",4.0,350,15.72730253,Swiggy,0.011428571
+Burger It Up,Bangalore,Central Bangalore,"American, Continental, Beverages, Desserts, Fast, Food",4.1,200,12.48254199,Swiggy,0.0205
+Momo Monk,Bangalore,Central Bangalore,"Pan-Asian, Chinese",4.2,180,12.78699424,Swiggy,0.023333333
+Carols Pastries & Bakers,Bangalore,Central Bangalore,Bakery,4.5,500,13.70035097,Swiggy,0.009
+Bombay Kulfis,Bangalore,Basavanagudi,"North, Indian, Desserts, Fast, Food",4.7,100,21.69106643,Swiggy,0.047
+Snack House,Bangalore,Central Bangalore,"Fast, Food, Street, Food",4.2,300,16.51366766,Swiggy,0.014
+Yogisthaan,Bangalore,Indiranagar,"Healthy, Food, North, Indian, Beverages, Indian, Mediterranean, Italian, Salads",4.2,600,19.38350617,Swiggy,0.007
+Chinita Real Mexican Food,Bangalore,Indiranagar,"Mexican, Beverages, Salads",4.5,1000,27.97472745,Swiggy,0.0045
+Tata Cha now Qmin,Bangalore,Vasanth Nagar,"Beverages, Bakery, Chaat, Desserts, Fast, Food, Home, Food, Maharashtrian, Snacks, Street, Food, Sweets, Indian, Combo, Parsi",4.2,200,19.38350617,Swiggy,0.021
+Momo Rice Noodles,Bangalore,Ejipura,"Chinese, Thai",4.2,350,19.38350617,Swiggy,0.012
+Paratha Plaza,Bangalore,Indiranagar,"North, Indian",4.4,250,20.30653027,Swiggy,0.0176
+The Biryani Life,Bangalore,Shantinagar,"Biryani, Hyderabadi, Lucknowi, North, Indian, Mughlai, Combo, Desserts",4.0,250,12.17808975,Swiggy,0.016
+Cupcake Noggins - CakesPastries and Desserts,Bangalore,Koramangala,"Desserts, British, Bakery, Pizzas, Snacks",4.3,150,19.84501822,Swiggy,0.028666667
+Tea Brew,Bangalore,Domlur,"American, Italian, Beverages, Continental, Chinese, Pastas, Pizzas, Fast, Food",4.1,350,18.92199412,Swiggy,0.011714286
+Kanpur Ki Kachauri,Bangalore,Indiranagar,"North, Indian, Combo",4.5,275,17.69321535,Swiggy,0.016363636
+Amadora Gourmet Ice Cream & Sorbet,Bangalore,Ashok Nagar,Desserts,4.5,450,13.70035097,Swiggy,0.01
+Chinese Wok (Wok Express),Bangalore,Malleshwaram,"Chinese, Asian, Tibetan, Desserts",3.9,250,17.99897002,Swiggy,0.0156
+Savory Platters by UPP,Bangalore,Domlur,"American, Continental, French, Beverages",4.0,300,12.17808975,Swiggy,0.013333333
+Golden Chai,Bangalore,Jayanagar,"Beverages, Snacks, Fast, Food",4.3,200,13.09144648,Swiggy,0.0215
+Tasty Paradise,Bangalore,Malleshwaram,"Andhra, Chinese, Mughlai, North, Indian, Seafood",3.9,330,17.99897002,Swiggy,0.011818182
+Hatti Kaapi - Coffee and more,Bangalore,Basavanagudi,"Beverages, Fast, Food, South, Indian, Bakery, Combo, Cafe, Snacks",4.2,150,16.51366766,Swiggy,0.028
+Tricky Shakes,Bangalore,Koramangala,"Ice, Cream, Beverages",5.0,250,15.22261219,Swiggy,0.02
+Brown Burger Co.,Bangalore,Koramangala,"American, Fast, Food, Beverages, Pizzas, Snacks, Juices, Desserts",4.4,300,13.39589873,Swiggy,0.014666667
+Bistro Oui,Bangalore,Koramangala,Continental,4.2,800,19.38350617,Swiggy,0.00525
+By 2 Coffee,Bangalore,Chamrajpet,"South, Indian",4.4,100,20.30653027,Swiggy,0.044
+Purani Dehli,Bangalore,Seshadripuram,"North, Indian, Combo, Snacks, Chinese, Sweets, Beverages",3.7,300,14.54775484,Swiggy,0.012333333
+Milano Ice Cream,Bangalore,Indiranagar,"Ice, Cream, Desserts",4.7,200,29.21804868,Swiggy,0.0235
+Hotel Bilal Biriyani Centre,Bangalore,Azad Nagar,Biryani,3.9,180,11.87363751,Swiggy,0.021666667
+Five Star Chicken,Bangalore,Jayamahal,Biryani,4.3,300,16.90685022,Swiggy,0.014333333
+NAMMA KUDLA RESTAURANT,Bangalore,Wilson Garden,Indian,4.1,300,12.48254199,Swiggy,0.013666667
+Home Plate,Bangalore,Rajajinagar,"Home, Food, North, Indian, Andhra, Healthy, Food, Thalis, Desserts, Indian, Punjabi",4.1,160,18.92199412,Swiggy,0.025625
+J K Fish Land,Bangalore,Basavanagudi,"Coastal, Seafood",4.1,300,12.48254199,Swiggy,0.013666667
+Paandikadai-Chettinad kitchen by Salt,Bangalore,Adugodi,"Biryani, Combo, South, Indian, Chettinad",3.9,400,11.87363751,Swiggy,0.00975
+Dhishoom -Dhaba by Salt,Bangalore,Adugodi,"North, Indian, Kebabs, Tandoor, Biryani, Combo",4.3,400,13.09144648,Swiggy,0.01075
+Nutribites,Bangalore,Richmond Town,"Healthy, Food, Juices",4.6,150,21.22955438,Swiggy,0.030666667
+The Deagh,Bangalore,Pulikeshi Nagar,"Indian, Chinese, Mughlai, Seafood",4.1,500,25.48808501,Swiggy,0.0082
+Cane Fresh,Bangalore,Pulikeshi Nagar,"Indian, Beverages, Desserts",4.4,50,17.30003278,Swiggy,0.088
+Natural Ice Cream,Bangalore,Ashok Nagar,"Ice, Cream",4.7,150,21.69106643,Swiggy,0.031333333
+Suryawanshi,Bangalore,Domlur,"Maharashtrian, Seafood",4.1,600,18.92199412,Swiggy,0.006833333
+Mad Mex,Bangalore,Ashok Nagar,"Mexican, Fast, Food, Salads",4.5,1000,13.70035097,Swiggy,0.0045
+The Grill and Cheese Cafe,Bangalore,Pulikeshi Nagar,"Snacks, Fast, Food, Bakery",4.3,450,16.90685022,Swiggy,0.009555556
+Homelike,Bangalore,Rajajinagar,"Thalis, Combo, Beverages, Pizzas, Indian",3.2,300,9.742471801,Swiggy,0.010666667
+Rocket Wok,Bangalore,Indiranagar,"Chinese, Thai, Asian, Combo, Vietnamese, Pan-Asian",4.2,400,19.38350617,Swiggy,0.0105
+SICILIA PONT (ITALIAN RESTAURANT ),Bangalore,Rajajinagar,"Pizzas, Italian, Desserts, Beverages, Fast, Food, Snacks",4.0,300,12.17808975,Swiggy,0.013333333
+Samrat in Chalukya,Bangalore,Sampangi Rama Nagar,"North, Indian, South, Indian",4.2,600,26.10974562,Swiggy,0.007
+Craft of Biryani,Bangalore,Koramangala,"North, Indian, Biryani, Kebabs, Beverages, Desserts",4.2,500,19.38350617,Swiggy,0.0084
+The Downtown pizzeria,Bangalore,Ejipura,"Italian, Pizzas, Desserts, Salads",4.2,200,12.78699424,Swiggy,0.021
+Lakeview Milkbar,Bangalore,Ashok Nagar,"Desserts, Ice, Cream, Bakery, Fast, Food",4.1,450,18.92199412,Swiggy,0.009111111
+Big Biriyani Company,Bangalore,Richmond Town,"Biryani, Mughlai",2.5,350,7.611306094,Swiggy,0.007142857
+Naachiyar's,Bangalore,Sivanchetti Gardens,"Biryani, Chettinad",4.2,600,19.38350617,Swiggy,0.007
+Roomali,Bangalore,Ashok Nagar,"North, Indian, Indian",4.4,1000,20.30653027,Swiggy,0.0044
+Cafe Medley,Bangalore,Koramangala,"Desserts, American, Continental, Italian, Bakery, Beverages",3.6,450,10.96028078,Swiggy,0.008
+Monsoon,Bangalore,Sivanchetti Gardens,"Andhra, Asian, Bengali, Biryani, Chettinad, Coastal, Continental, Desserts, Fast, Food, Italian, Mughlai, North, Indian, Pan-Asian, Seafood, South, Indian",4.5,700,13.70035097,Swiggy,0.006428571
+Tewari Bros Mithai Shop,Bangalore,Sivanchetti Gardens,"Gujarati, Rajasthani, Fast, Food",3.1,150,9.438019557,Swiggy,0.020666667
+Chai Days,Bangalore,Kodihalli,"Beverages, Snacks, Combo, Bakery",4.4,200,30.39852103,Swiggy,0.022
+Burma Burma,Bangalore,Indiranagar,"Pan-Asian, Burmese",4.5,1300,20.76804233,Swiggy,0.003461538
+Green Theory,Bangalore,Ashok Nagar,"Italian, Continental, Healthy, Food",4.3,1000,16.90685022,Swiggy,0.0043
+Hungry B,Bangalore,Domlur,"North, Indian, Indian, Continental, Biryani, Beverages, Combo",3.8,250,11.56918526,Swiggy,0.0152
+Toscano,Bangalore,Ashok Nagar,"Italian, Pizzas, Pastas, Continental, Salads, Desserts, Beverages, Combo",4.3,1200,19.84501822,Swiggy,0.003583333
+Biergarten Brewery & Kitchen,Bangalore,Koramangala,"Continental, Pizzas, North, Indian, Chinese, Asian, South, Indian",4.1,750,18.92199412,Swiggy,0.005466667
+Pabrai's Fresh & Naturelle Ice creams,Bangalore,Ashok Nagar,"Ice, Cream, Desserts",4.4,180,13.39589873,Swiggy,0.024444444
+The Good Bowl,Bangalore,Shantinagar,"North, Indian, Biryani, Chinese, Asian, Pastas, Desserts",4.2,400,12.78699424,Swiggy,0.0105
+Sultans of Spice,Bangalore,Koramangala,"North, Indian, Chinese, Biryani",4.3,599,16.90685022,Swiggy,0.007178631
+Frosty Crumble,Bangalore,Ashok Nagar,"Desserts, Ice, Cream, Beverages",4.9,450,14.91815994,Swiggy,0.010888889
+Miller's 46,Bangalore,Vasanth Nagar,"Steakhouse, American, Continental",4.4,1100,20.30653027,Swiggy,0.004
+Bullet Biryani,Bangalore,Central Bangalore,"Biryani, Hyderabadi, Mughlai",4.4,280,13.39589873,Swiggy,0.015714286
+Ragoo's,Bangalore,Jayanagar,"North, Indian, Italian",4.1,800,16.12048509,Swiggy,0.005125
+CHINESE KITCHEN,Bangalore,Koramangala,"Chinese, Indian",4.1,300,25.48808501,Swiggy,0.013666667
+McDonald's Gourmet Burger Collection,Bangalore,Central Bangalore,"American, Continental, Fast, Food, Desserts, Beverages",4.1,600,12.48254199,Swiggy,0.006833333
+Burger and Beyond,Bangalore,Ashok Nagar,"American, Fast, Food, Beverages",3.9,250,11.87363751,Swiggy,0.0156
+Starbucks Coffee,Bangalore,Ashok Nagar,Beverages,4.2,400,19.38350617,Swiggy,0.0105
+Punjabi pure veg Restaurant since1994,Bangalore,Chickpet,"Chinese, Jain, North, Indian",3.7,250,14.54775484,Swiggy,0.0148
+Biryani Trip,Bangalore,Central Bangalore,"Biryani, Hyderabadi, Indian",4.2,400,19.38350617,Swiggy,0.0105
+The Chinese Food Company,Bangalore,Ashok Nagar,"Chinese, Seafood, Pan-Asian, Vietnamese, Malaysian, Singaporean, Thai",4.0,300,12.17808975,Swiggy,0.013333333
+Carnival De Goa,Bangalore,Sivanchetti Gardens,"Goan, Mangalorean, Kerala, South, Indian, Seafood, Coastal, Continental",4.1,500,18.92199412,Swiggy,0.0082
+Chakum Chukum,Bangalore,New Tippasandra,Chinese,4.3,400,29.70764555,Swiggy,0.01075
+Waffle Magic,Bangalore,New Tippasandra,"Beverages, Desserts, Continental",4.2,200,19.38350617,Swiggy,0.021
+South Ruchis Square,Bangalore,Gandhi Nagar,"Biryani, Chinese, Desserts, Fast, Food, Jain, North, Indian, South, Indian",4.2,500,16.51366766,Swiggy,0.0084
+The Bowl Life,Bangalore,Indiranagar,"Asian, North, Indian, Continental, Healthy, Food, Punjabi, Home, Food, Oriental, Desserts, Beverages, Pan-Asian, Bengali, Mangalorean, Kashmiri, Lucknowi, Chinese, Sweets, Kebabs, Combo, Rajasthani, Awadhi",4.3,250,19.84501822,Swiggy,0.0172
+IMPERIO RESTAURANT,Bangalore,Koramangala,"Biryani, Mughlai, North, Indian, Tandoor, Kerala, Chinese, Seafood, Combo, Beverages, Desserts",3.9,300,17.99897002,Swiggy,0.013
+Bombay Vadapav Corner,Bangalore,Malleshwaram,"North, Indian",4.4,100,20.30653027,Swiggy,0.044
+Polamma's Mess,Bangalore,Adugodi,"Indian, Biryani",4.2,250,19.38350617,Swiggy,0.0168
+The Chaap Factory,Bangalore,Central Bangalore,"Thalis, Combo, North, Indian, Pizzas, Beverages",4.2,300,12.78699424,Swiggy,0.014
+The Cafe By Foodhall,Bangalore,Ulsoor,"Fast, Food, Pan-Asian, Continental",4.0,1000,12.17808975,Swiggy,0.004
+Mahesh Lunch Home,Bangalore,Indiranagar,"Indian, Seafood, Oriental",4.1,1000,16.12048509,Swiggy,0.0041
+Kulcha Stories,Bangalore,Koramangala,"North, Indian, Punjabi",3.8,250,11.56918526,Swiggy,0.0152
+Paratha Box - 2X Filling,Bangalore,Rajajinagar,"North, Indian, Punjabi, Fast, Food, Indian, Beverages, Snacks, Healthy, Food",4.0,250,18.46048207,Swiggy,0.016
+Chaayos Meri Wali Chai,Bangalore,Cunningham Road,"Bakery, Beverages, Chaat, Desserts, Fast, Food, Home, Food, Italian, Maharashtrian, Snacks, Street, Food, Sweets",4.7,250,14.30925546,Swiggy,0.0188
+Raffaele's Ristorante Pizzeria,Bangalore,Indiranagar,"Pizzas, Continental, Pastas, Fast, Food, Beverages",4.3,800,19.84501822,Swiggy,0.005375
+SLAY Coffee,Bangalore,Shantinagar,"Beverages, Desserts",4.4,200,13.39589873,Swiggy,0.022
+Smokey Tribe,Bangalore,Koramangala,"Naga, Continental, Seafood",4.3,700,19.84501822,Swiggy,0.006142857
+Little Cafe,Bangalore,Shankarapura,"Beverages, Chinese, Continental, Desserts, Ice, Cream, Italian, Jain",3.7,300,11.26473302,Swiggy,0.012333333
+Little Kolkata,Bangalore,Koramangala,"North, Indian, Bengali, Chinese",4.1,300,12.48254199,Swiggy,0.013666667
+Wow! Momo,Bangalore,Ashok Nagar,"Tibetan, Fast, Food, Healthy, Food, Asian, Chinese, Snacks, Continental, Desserts, Beverages",4.3,250,13.09144648,Swiggy,0.0172
+Cheese Meets Bread,Bangalore,Indiranagar,"Snacks, Beverages",4.6,300,18.08639791,Swiggy,0.015333333
+Madras Meal Company,Bangalore,Central Bangalore,"South, Indian, Chettinad",4.1,250,18.92199412,Swiggy,0.0164
+Dalma,Bangalore,Koramangala,"Oriya, Seafood, Thai",4.2,197,19.38350617,Swiggy,0.021319797
+Srinidhi Sagar Deluxe,Bangalore,Domlur,"South, Indian, North, Indian, Indian, Chinese, Beverages, Desserts",3.9,200,17.99897002,Swiggy,0.0195
+Punjabi Bowl,Bangalore,Central Bangalore,"Home, Food, North, Indian, Beverages, Indian, Combo, Chinese, Thalis",4.2,300,12.78699424,Swiggy,0.014
+Apsara Ice Creams,Bangalore,Indiranagar,"Ice, Cream, Desserts",4.5,150,17.69321535,Swiggy,0.03
+Bhartiya Jalpan - Sweets Dry Fruit and Savouries,Bangalore,Shivaji Nagar,"Indian, Sweets",3.8,300,11.56918526,Swiggy,0.012666667
+CREAMS & BITES,Bangalore,Basavanagudi,"Ice, Cream",5.0,200,15.22261219,Swiggy,0.025
+Lo! - Low Carb and Keto Foods,Bangalore,Kodihalli,"Healthy, Food, Keto, North, Indian, Continental",4.5,150,20.76804233,Swiggy,0.03
+Firangi Bake,Bangalore,Shantinagar,"Italian, Mexican, Pastas",4.5,400,13.70035097,Swiggy,0.01125
+Ganesh Dharshini,Bangalore,Malleshwaram,"South, Indian",4.3,100,19.84501822,Swiggy,0.043
+Burritos & Bowls Mexican Kitchen,Bangalore,Koramangala,"Mexican, Salads",4.2,450,12.78699424,Swiggy,0.009333333
+Ashok Vattika,Bangalore,Jayanagar,"North, Indian, Chinese, Tandoor, Beverages, Desserts",3.6,400,16.61443386,Swiggy,0.009
+Halli Mane Rotti,Bangalore,Indiranagar,"South, Indian",4.1,200,16.12048509,Swiggy,0.0205
+Frozen Bottle,Bangalore,Ashok Nagar,"Beverages, Ice, Cream, Desserts",3.8,250,11.56918526,Swiggy,0.0152
+MMA Kabab & Rolls,Bangalore,Sarvagnanagar,"Biryani, Chinese, Mughlai, Arabian",4.0,200,18.46048207,Swiggy,0.02
+sonar bangla,Bangalore,Koramangala,"Bengali, North, Indian",3.7,256,11.26473302,Swiggy,0.014453125
+Chickpet Donne Biriyani House,Bangalore,Rajajinagar,"Indian, Chinese",3.8,200,17.53745796,Swiggy,0.019
+BENGALI KHABAR,Bangalore,Kodihalli,Bengali,3.7,250,17.07594591,Swiggy,0.0148
+The Coorg Food Co.,Bangalore,Koramangala,"South, Indian",4.3,750,19.84501822,Swiggy,0.005733333
+The Naati Bar And Kitchen,Bangalore,Koramangala,Indian,4.2,500,12.78699424,Swiggy,0.0084
+The Brekkie Shop - All Day Menu,Bangalore,Indiranagar,"British, Italian, Indian, Chinese, South, Indian, North, Indian, Desserts",4.3,200,26.73140623,Swiggy,0.0215
+Cafe Terra,Bangalore,Indiranagar,Continental,4.3,299,19.84501822,Swiggy,0.014381271
+Chianti,Bangalore,Ashok Nagar,"Italian, Pizzas, Salads, Pastas, Desserts",4.7,1250,18.47958047,Swiggy,0.00376
+Mint Masala,Bangalore,Malleshwaram,"North, Indian, Chinese, Continental",4.2,375,19.38350617,Swiggy,0.0112
+Donne Biryani Adda,Bangalore,Indiranagar,"Biryani, South, Indian, Desserts, Beverages",3.8,200,11.56918526,Swiggy,0.019
+Side dish,Bangalore,Indiranagar,"Tandoor, North, Indian, Chinese, Snacks, Beverages, Desserts",4.0,200,12.17808975,Swiggy,0.02
+Smoodies,Bangalore,Kodihalli,"Snacks, Healthy, Food, Juices, Beverages, Desserts",4.2,140,16.51366766,Swiggy,0.03
+Biryani Khazana,Bangalore,Indiranagar,Biryani,3.7,250,14.54775484,Swiggy,0.0148
+Lot Like Crepes,Bangalore,Koramangala,"Desserts, Continental, Cafe, Fast, Food",4.4,600,17.30003278,Swiggy,0.007333333
+Ibaco,Bangalore,Ashok Nagar,Desserts,4.7,800,14.30925546,Swiggy,0.005875
+Royal Restaurant,Bangalore,Shivaji Nagar,"Chinese, North, Indian, Tandoor, indian",3.8,300,17.53745796,Swiggy,0.012666667
+Asia Kitchen By Mainland China,Bangalore,Ashok Nagar,"Asian, Chinese, Oriental",4.3,850,16.90685022,Swiggy,0.005058824
+Aligarh House,Bangalore,Central Bangalore,"Biryani, Mughlai, Kebabs, North, Indian, Desserts, Beverages, Combo",3.8,400,17.53745796,Swiggy,0.0095
+Hokart - Soori Chaats,Bangalore,Koramangala,"Fast, Food, Street, Food, Snacks, Chaat",4.9,150,14.91815994,Swiggy,0.032666667
+Vijayalakshmi Veg,Bangalore,Kadugondanahalli,"Chinese, South, Indian, Fast, Food",4.3,100,19.84501822,Swiggy,0.043
+Goli Vada Pav No .1,Bangalore,Jayanagar,"Maharashtrian, North, Indian, Fast, Food, Street, Food",4.5,100,17.69321535,Swiggy,0.045
+The Circle Dream,Bangalore,Koramangala,"Pizzas, Italian, Pastas, Desserts, Beverages, Continental, Indian, Mediterranean",4.4,500,20.30653027,Swiggy,0.0088
+Ghar Ka Tadka,Bangalore,Ejipura,"North, Indian, Home, Food, South, Indian",4.0,400,12.17808975,Swiggy,0.01
+BaHa Smoothies & Shakes,Bangalore,Jayanagar,"Healthy, Food, Juices, Beverages, Snacks, Desserts",4.0,200,15.72730253,Swiggy,0.02
+Karavali Kolimane,Bangalore,Wilson Garden,"South, Indian, Chinese, Seafood, Tandoor, North, Indian",3.7,400,11.26473302,Swiggy,0.00925
+Aubree,Bangalore,Ashok Nagar,"Desserts, Bakery",4.3,800,19.84501822,Swiggy,0.005375
+Basmati Express,Bangalore,Koramangala,"Biryani, Andhra, Hyderabadi, South, Indian, North, Indian, Tandoor, Beverages, Desserts",3.6,300,10.96028078,Swiggy,0.012
+Hotel Annapoorna,Bangalore,Majestic,"Biryani, Andhra",4.5,450,20.76804233,Swiggy,0.01
+Fresh Pressery Cafe,Bangalore,Ashok Nagar,"Italian, Salads, Healthy, Food, French",4.2,1000,19.38350617,Swiggy,0.0042
+Guntur Spice,Bangalore,Jayanagar,"Indian, Chinese, Beverages",4.3,500,13.09144648,Swiggy,0.0086
+Habibi Falafel,Bangalore,Indiranagar,"Arabian, Mediterranean, Lebanese, Fast, Food, Middle, Eastern",4.3,300,29.70764555,Swiggy,0.014333333
+Chinese Trail,Bangalore,Banashankari,"Chinese, Thai, Seafood, Asian, Combo, Healthy, Food, Beverages",3.3,350,10.04692404,Swiggy,0.009428571
+Bangaliana,Bangalore,Koramangala,Bengali,4.0,300,24.8664244,Swiggy,0.013333333
+Ajji Ruchi Kitchen,Bangalore,Koramangala,Indian,4.1,300,18.92199412,Swiggy,0.013666667
+Kati Rolls Junction,Bangalore,New Tippasandra,Indian,3.3,300,10.04692404,Swiggy,0.011
+Shezan,Bangalore,Vasanth Nagar,"North, Indian, Chinese, Continental, Mughlai",4.3,600,19.84501822,Swiggy,0.007166667
+THARAVADU MALABAR BIRYANI,Bangalore,Koramangala,"Biryani, Kerala, South, Indian, North, Indian, Beverages, Desserts",3.4,230,15.69140976,Swiggy,0.014782609
+Dairy Day Ice Creams,Bangalore,Koramangala,"Ice, Cream, Desserts",4.5,200,13.70035097,Swiggy,0.0225
+Havmor Ice Cream Havfun Parlour,Bangalore,Seshadripuram,"Ice, Cream, Desserts",4.2,200,12.78699424,Swiggy,0.021
+KARAVALI MESS,Bangalore,Rajajinagar,Indian,4.3,250,13.09144648,Swiggy,0.0172
+Senoritas Mexican kitchen by Little Italy,Bangalore,Jayanagar,"Mexican, Salads, Combo, Snacks, Healthy, Food",3.8,500,11.56918526,Swiggy,0.0076
+Dolci Desserts,Bangalore,Vasanth Nagar,"Desserts, Pastas",4.5,600,17.69321535,Swiggy,0.0075
+SLAY Coffee Bar,Bangalore,Indiranagar,"Beverages, Desserts",4.3,200,19.84501822,Swiggy,0.0215
+Madurai Idly Shop,Bangalore,Koramangala,"South, Indian",4.3,150,26.73140623,Swiggy,0.028666667
+Sree Krishna Kafe,Bangalore,Koramangala,"South, Indian",4.5,137,27.97472745,Swiggy,0.032846715
+Haagen Dazs,Bangalore,Central Bangalore,"Ice, Cream",4.4,600,13.39589873,Swiggy,0.007333333
+Nasi and Mee,Bangalore,Koramangala,"Pan-Asian, Singaporean, Malaysian, Japanese, Asian, Chinese, Indonesian",4.6,1200,21.22955438,Swiggy,0.003833333
+Ghee and Turmeric,Bangalore,Cunningham Road,"North, Indian, Tandoor, Punjabi, Beverages, Desserts, Mughlai",4.2,500,12.78699424,Swiggy,0.0084
+The Blue bawarchi restaurant(odia and Bengali food,Bangalore,Indiranagar,"Bengali, Oriya, Indian",2.8,300,8.524662826,Swiggy,0.009333333
+Dezire SugarFree Sweets & Bakes,Bangalore,Basavanagudi,"Sweets, Bakery, Beverages",4.1,400,12.48254199,Swiggy,0.01025
+SHAWARMA21,Bangalore,Malleshwaram,"Arabian, Fast, Food",4.3,150,13.09144648,Swiggy,0.028666667
+Sri Krishna Nanda Gokula Veg,Bangalore,Jogupalya,"South, Indian, Chinese",4.3,200,16.90685022,Swiggy,0.0215
+Peetuk,Bangalore,Domlur,"Bengali, Chinese",4.0,500,27.63501912,Swiggy,0.008
+ARMANI KITCHEN,Bangalore,Rt Nagar,"Chinese, Indian, Tandoor",3.9,300,17.99897002,Swiggy,0.013
+Say Noodles,Bangalore,Banashankari,"Chinese, Thai, Seafood, Asian, Combo, Healthy, Food, Beverages",3.3,300,12.97502459,Swiggy,0.011
+The Food Corner,Bangalore,Vasanth Nagar,"Chinese, North, Indian",4.5,150,13.70035097,Swiggy,0.03
+Sarposh Restaurant and Tea Room,Bangalore,Indiranagar,"North, Indian, Kashmiri",4.2,1200,12.78699424,Swiggy,0.0035
+Shiro,Bangalore,Ashok Nagar,"Japanese, Asian",4.4,1400,20.30653027,Swiggy,0.003142857
+Kedia's Funfood,Bangalore,Jayanagar,"Street, Food",4.3,200,26.73140623,Swiggy,0.0215
+Kudla Beach,Bangalore,Rajajinagar,"North, Indian, Chinese, Seafood, South, Indian",3.9,400,11.87363751,Swiggy,0.00975
+Chinese Nalapaka,Bangalore,Guttahalli,"Chinese, Indian",3.9,200,15.33411997,Swiggy,0.0195
+Tottos pizza,Bangalore,Central Bangalore,"Continental, Italian",4.6,500,18.08639791,Swiggy,0.0092
+Azuki Japan Travel  Bistro And Sake,Bangalore,Central Bangalore,"Japanese, Desserts, Pan-Asian, Bakery, Snacks",4.6,1200,18.08639791,Swiggy,0.003833333
+Chaat Street,Bangalore,Koramangala,"Fast, Food, Snacks, Chaat, Street, Food, Beverages, Combo, North, Indian, Indian, Maharashtrian, Rajasthani",4.2,200,19.38350617,Swiggy,0.021
+The Ritz-Carlton - The Market,Bangalore,Ashok Nagar,"Indian, Continental, Asian",4.1,1000,12.48254199,Swiggy,0.0041
+Hari Super Sandwich,Bangalore,Ashok Nagar,"Fast, Food",4.0,100,18.46048207,Swiggy,0.04
+Piazza pizza by Little Italy,Bangalore,Jayanagar,"Pizzas, Salads, Combo, Italian, Mexican, Desserts, Beverages, Pastas",3.8,500,11.56918526,Swiggy,0.0076
+Southern Soul Restaurant,Bangalore,Koramangala,"South, Indian",4.1,250,18.92199412,Swiggy,0.0164
+Kava - Fairfield by Marriott Rajajinagar,Bangalore,Rajajinagar,"Indian, Continental",3.3,700,10.04692404,Swiggy,0.004714286
+JW Kitchen - JW Marriott,Bangalore,Ashok Nagar,"Indian, Continental",4.1,1000,16.12048509,Swiggy,0.0041
+Cafe Felix,Bangalore,Ulsoor,"American, Continental, Desserts, Pizzas, Pastas",4.0,1000,12.17808975,Swiggy,0.004
+Kapoors Chaat Bhandaar,Bangalore,Rajajinagar,"Street, Food, North, Indian, Desserts",4.2,250,19.38350617,Swiggy,0.0168
+Tea Villa Cafe,Bangalore,Jayanagar,"Chinese, Continental, Desserts, Fast, Food, Italian, Mexican, Pan-Asian",4.2,1000,16.51366766,Swiggy,0.0042
+SIMPLI NAMDHARI,Bangalore,Ashok Nagar,"Chinese, European, Italian, North, Indian, Salads",4.4,500,13.39589873,Swiggy,0.0088
+Taiki,Bangalore,Jayanagar,"Pan-Asian, Japanese, Korean, Thai, Sushi, Beverages, Asian, Chinese",4.0,800,18.46048207,Swiggy,0.005
+Andhra Biryanis,Bangalore,Indiranagar,"Andhra, Biryani, Hyderabadi, Chinese, Tandoor",4.2,400,19.38350617,Swiggy,0.0105
+Sugo,Bangalore,Ejipura,"Italian, Pastas, Pizzas, Desserts",4.0,300,18.46048207,Swiggy,0.013333333
+Raffaele's Ristorante Pizzeria,Bangalore,Koramangala,"Pizzas, Continental, Pastas, Fast, Food, Beverages",4.3,800,19.84501822,Swiggy,0.005375
+THE CAKE HOUSE,Bangalore,Basavanagudi,"Indian, Bakery, Sweets",4.3,280,13.09144648,Swiggy,0.015357143
+Voosh Thalis & Bowls,Bangalore,Frazer Town,"North, Indian, Home, Food, Indian, Beverages, Thalis, Combo",4.1,199,16.12048509,Swiggy,0.020603015
+Lavender Bakery by Fresh Pressery,Bangalore,Koramangala,"Bakery, American, Beverages, Pastas, Desserts",4.3,250,19.84501822,Swiggy,0.0172
+Uff (Urban Food Factory),Bangalore,Jayanagar,"Indian, Seafood, Chinese, Snacks",3.9,300,11.87363751,Swiggy,0.013
+XOOX Brewmill,Bangalore,Koramangala,"North, Indian, Chinese, Pizzas, Continental, Desserts, Pastas, Fast, Food, American, Italian, Salads, Combo",4.5,500,13.70035097,Swiggy,0.009
+Kaati Zone Rolls and Wraps,Bangalore,Central Bangalore,"Fast, Food, Beverages",3.9,200,15.33411997,Swiggy,0.0195
+Orbis Restaurant,Bangalore,Indiranagar,"North, Indian, Biryani, Arabian, Chinese, Snacks, Beverages, Desserts",3.8,400,23.62310318,Swiggy,0.0095
+Momo Zone The Momo Company,Bangalore,Indiranagar,"Chinese, Fast, Food",4.4,200,13.39589873,Swiggy,0.022
+Le Gateau - The Cake Shop,Bangalore,Domlur,Desserts,4.3,400,19.84501822,Swiggy,0.01075
+Bheemas,Bangalore,Ashok Nagar,Andhra,4.3,550,19.84501822,Swiggy,0.007818182
+Salt Mango Tree,Bangalore,Indiranagar,"Kerala, South, Indian, Seafood, Biryani, Indian",4.2,300,19.38350617,Swiggy,0.014
+Basaveshwara Khanavali,Bangalore,Gandhi Nagar,"South, Indian",4.2,200,12.78699424,Swiggy,0.021
+Faasos,Bangalore,Shantinagar,"Combo, Snacks, Beverages, Desserts, Indian",4.1,200,18.92199412,Swiggy,0.0205
+Paris Panini - French Street Food,Bangalore,Indiranagar,"French, Street, Food",4.4,450,30.39852103,Swiggy,0.009777778
+Madurai Idly shop - Express,Bangalore,Central Bangalore,"South, Indian",4.2,150,19.38350617,Swiggy,0.028
+Salt - Indian Restaurant Bar & Grill,Bangalore,Adugodi,"North, Indian, Biryani, Thalis, Desserts",4.4,1300,20.30653027,Swiggy,0.003384615
+Rolls on Wheels,Bangalore,Vasanth Nagar,"Fast, Food",4.3,300,19.84501822,Swiggy,0.014333333
+New Shanti Upahar,Bangalore,Jayanagar,"South, Indian",4.4,200,27.35306684,Swiggy,0.022
+Maravanthe,Bangalore,Indiranagar,Seafood,4.3,800,19.84501822,Swiggy,0.005375
+4th Tea block,Bangalore,Jayanagar,"Beverages, Snacks",4.6,100,18.08639791,Swiggy,0.046
+ZED THE BAKER,Bangalore,Central Bengalore,"Italian, Pizzas, Pastas, Indian",4.0,500,12.17808975,Swiggy,0.008
+Patio 805,Bangalore,Jayanagar,"Pan-Asian, Fast, Food, Cafe",3.5,300,10.65582853,Swiggy,0.011666667
+WOWFFLES,Bangalore,Indiranagar,"Desserts, Bakery",4.1,400,16.12048509,Swiggy,0.01025
+The Thick Shake Factory,Bangalore,Pulikeshi Nagar,Beverages,4.4,200,20.30653027,Swiggy,0.022
+Punjabi Zaika,Bangalore,Rajajinagar,"Continental, Italian, Fast, Food",4.1,300,16.12048509,Swiggy,0.013666667
+Prowl Foods By Tiger Shroff,Bangalore,Indiranagar,"North, Indian, Continental, Pan-Asian, Oriental",4.4,500,17.30003278,Swiggy,0.0088
+Pai Vihar Grand,Bangalore,Nagarathpete,"Chinese, North, Indian, South, Indian",4.3,250,16.90685022,Swiggy,0.0172
+Kunafa World,Bangalore,Pulikeshi Nagar,"Middle, Eastern",4.4,500,20.30653027,Swiggy,0.0088
+Hotel Udupi Ruchi,Bangalore,Rajajinagar,"South, Indian, Chinese, Desserts, North, Indian",4.1,300,18.92199412,Swiggy,0.013666667
+Chaatimes,Bangalore,Ashok Nagar,"Chaat, Beverages",4.4,150,13.39589873,Swiggy,0.029333333
+Sri Sai Ram Chats and Juice Centre,Bangalore,Malleshwaram,"Chaat, Snacks",4.1,200,18.92199412,Swiggy,0.0205
+ROLLING DOUGH CAFE,Bangalore,Jogupalya,"Italian, Seafood, Desserts, Continental, Salads, Pizzas, Pastas, Beverages",4.1,700,18.92199412,Swiggy,0.005857143
+No.10 Fort Cochin,Bangalore,Ashok Nagar,"Seafood, Kerala, Biryani",4.2,250,29.01677007,Swiggy,0.0168
+Malleshwaram Holige Mane,Bangalore,Malleshwaram,"Desserts, South, Indian, Sweets",4.4,120,20.30653027,Swiggy,0.036666667
+Sri Sai Cafe,Bangalore,Chamrajpet,"Fast, Food",4.3,150,13.09144648,Swiggy,0.028666667
+IDC Kitchen,Bangalore,Gandhi Nagar,"South, Indian, North, Indian",4.4,150,20.30653027,Swiggy,0.029333333
+Sikandar Rolls,Bangalore,Ashok Nagar,"North, Indian, Fast, Food, Biryani, Kebabs, Combo, Beverages, Desserts",4.5,300,20.76804233,Swiggy,0.015
+KC DAS Sweet bite,Bangalore,Pulikeshi Nagar,"Bengali, Snacks, Sweets",4.4,100,20.30653027,Swiggy,0.044
+The Rendezvous,Bangalore,Koramangala,"Continental, Italian, Indian, Chinese",4.0,600,12.17808975,Swiggy,0.006666667
+24/7 - The Lalit Ashok Bangalore,Bangalore,Seshadripuram,"American, Asian, Chinese, Continental, North, Indian, Pan-Asian",3.7,600,11.26473302,Swiggy,0.006166667
+Savi Sagar,Bangalore,Sampangiram Nagar,"Beverages, Chinese, Fast, Food, Jain, North, Indian, South, Indian",4.2,300,12.78699424,Swiggy,0.014
+Khamma ghani sa,Bangalore,Koramangala,"North, Indian, Rajasthani",4.6,500,14.00480321,Swiggy,0.0092
+Chefmaster,Bangalore,Jayanagar,"South, Indian, Kerala, Seafood",4.1,300,18.92199412,Swiggy,0.013666667
+The Bier Library,Bangalore,Koramangala,"Continental, North, Indian, Pizzas, American, Mexican, Italian, Beverages",4.3,600,16.90685022,Swiggy,0.007166667
+New Life Kerala Mess,Bangalore,Indiranagar,"South, Indian",4.3,200,19.84501822,Swiggy,0.0215
+Chaska Bun,Bangalore,Koramangala,"Street, Food",4.4,178,20.30653027,Swiggy,0.024719101
+The Ritz-Carlton - Ganache,Bangalore,Ashok Nagar,"Indian, Bakery",3.5,1000,10.65582853,Swiggy,0.0035
+Mumbai Xpress,Bangalore,Basavanagudi,"Chaat, Street, Food, Fast, Food",4.1,300,12.48254199,Swiggy,0.013666667
+Toast & Tonic,Bangalore,Ashok Nagar,"European, Continental",4.3,900,13.09144648,Swiggy,0.004777778
+Tall Blonde French,Bangalore,Koramangala,"American, European",4.2,250,12.78699424,Swiggy,0.0168
+South Kitchen,Bangalore,Basavanagudi,"Fast, Food, South, Indian",4.5,150,20.76804233,Swiggy,0.03
+Imli,Bangalore,Indiranagar,"North, Indian, Punjabi",3.8,400,17.53745796,Swiggy,0.0095
+Just Shawarma,Bangalore,Indiranagar,Arabian,3.9,180,17.99897002,Swiggy,0.021666667
+Brown Burger Co Jayanagar,Bangalore,Jayanagar,"Fast, Food, Beverages",4.4,199,13.39589873,Swiggy,0.022110553
+Maggi Mane,Bangalore,Srirampura,"Beverages, Fast, Food, Italian",4.3,200,13.09144648,Swiggy,0.0215
+Hokart - Special Hot Momos,Bangalore,Koramangala,"Fast, Food, Street, Food, Snacks, Chinese",4.3,150,16.90685022,Swiggy,0.028666667
+CHINESE HOT,Bangalore,Vasanth Nagar,"Chinese, Thai, North, Indian",4.4,350,20.30653027,Swiggy,0.012571429
+The Paan Studio,Bangalore,Pulikeshi Nagar,Paan,4.2,300,16.51366766,Swiggy,0.014
+Earthen Delights,Bangalore,Jogupalya,Kerala,4.6,240,18.08639791,Swiggy,0.019166667
+The Grill House - Steaks & Sizzlers,Bangalore,Sivanchetti Gardens,"American, Steakhouse, Italian, Mexican, Continental, Mediterranean, Desserts, Grill, Salads, Pastas, Pizzas, Lebanese",4.2,1100,19.38350617,Swiggy,0.003818182
+Gullu's Chaat,Bangalore,Malleshwaram,"Chaat, Snacks, Fast, Food",3.8,250,17.53745796,Swiggy,0.0152
+Ciro's Pizzeria,Bangalore,Central Bangalore,"Pizzas, Italian, Continental, American, Desserts",4.0,1000,15.72730253,Swiggy,0.004
+SRI UDUPI VAIBHAV,Bangalore,Indiranagar,"South, Indian, North, Indian, Chinese",4.5,199,20.76804233,Swiggy,0.022613065
+Wraps Rolls & Bowls,Bangalore,Indiranagar,"North, Indian, Chinese, Fast, Food, Desserts",4.3,250,13.09144648,Swiggy,0.0172
+House Of Kebab's,Bangalore,Jayanagar,"North, Indian, Chinese, Biryani",3.7,500,14.54775484,Swiggy,0.0074
+Twiststick House,Bangalore,Shankarapura,"Jain, North, Indian, Continental, Fast, Food, Italian, Beverages, Thai",4.3,300,19.84501822,Swiggy,0.014333333
+Artinci - Indulge Guilt Free!,Bangalore,Indiranagar,"Ice, Cream, Healthy, Food, Keto, Desserts, Snacks, Beverages, Bakery",4.7,200,18.47958047,Swiggy,0.0235
+IDC Kitchen,Bangalore,Indiranagar,"South, Indian, Beverages, Snacks",4.2,200,19.38350617,Swiggy,0.021
+Zomoz - The Momo Company,Bangalore,Indiranagar,"Tibetan, Chinese, Asian, Street, Food",4.2,200,19.38350617,Swiggy,0.021
+Chung Wah,Bangalore,Ashok Nagar,Chinese,4.3,800,19.84501822,Swiggy,0.005375
+Popat,Bangalore,Jogupalya,"Fast, Food, North, Indian",4.4,200,20.30653027,Swiggy,0.022
+Cafe Mondo,Bangalore,Basavanagudi,"Pizzas, Italian",4.4,500,17.30003278,Swiggy,0.0088
+Maharaja Military Canteen,Bangalore,Central Bangalore,"South, Indian",3.9,400,17.99897002,Swiggy,0.00975
+Harshi Super Sandwich,Bangalore,Basavanagudi,"Snacks, Fast, Food, Chaat",3.7,100,11.26473302,Swiggy,0.037
+UBQ by Barbeque Nation,Bangalore,Domlur,"North, Indian, Mughlai, Seafood, Biryani, Desserts, Kebabs",3.9,300,17.99897002,Swiggy,0.013
+Lazio Steaks & More,Bangalore,Pulikeshi Nagar,"Steakhouse, Pastas, American, Pizzas, Italian, Desserts, Chinese",4.5,800,20.76804233,Swiggy,0.005625
+Bhagatram Sweets,Bangalore,Shivaji Nagar,"Indian, Chinese, North, Indian, Snacks",3.9,250,17.99897002,Swiggy,0.0156
+Adiga's,Bangalore,Chickpet,"South, Indian, North, Indian, Chinese, Thalis, Fast, Food, Juices, Desserts",3.9,200,17.99897002,Swiggy,0.0195
+Durga Chats club road,Bangalore,Vijayanagar,"Chaat, Juices",3.6,100,10.96028078,Swiggy,0.036
+Trattoria by Toscano,Bangalore,Jayanagar,"Italian, Pizzas, Pastas, Continental, Salads, Desserts, Beverages, Combo",4.1,900,18.92199412,Swiggy,0.004555556
+Parijata pure veg,Bangalore,Richmond Town,"South, Indian",4.2,200,12.78699424,Swiggy,0.021
+Kapoor's Cafe,Bangalore,Jayanagar,"North, Indian",4.1,500,25.48808501,Swiggy,0.0082
+A-1 Biriyani Combo 75,Bangalore,Malleshwaram,"Biryani, South, Indian",3.5,260,13.76138971,Swiggy,0.013461538
+Sukh Sagar,Bangalore,Koramangala,"South, Indian",4.3,400,19.84501822,Swiggy,0.01075
+Green cravings,Bangalore,Pulikeshi Nagar,"Healthy, Food, Continental, Keto, Indian, Salads",3.9,350,15.33411997,Swiggy,0.011142857
+LunchBox,Bangalore,Shantinagar,"North, Indian, Chinese, Desserts, Biryani",4.1,200,18.92199412,Swiggy,0.0205
+Khawa Karpo,Bangalore,Koramangala,Chinese,4.6,178,21.22955438,Swiggy,0.025842697
+Lazeez,Bangalore,Koramangala,"North, Indian, Mughlai",4.2,500,26.10974562,Swiggy,0.0084
+Sri Krishna Sweets,Bangalore,Indiranagar,Sweets,4.7,200,18.47958047,Swiggy,0.0235
+Chai Mane,Bangalore,Basavanagudi,"Fast, Food, Snacks, Beverages",3.7,100,11.26473302,Swiggy,0.037
+The Baker's Dozen,Bangalore,Domlur,Bakery,4.3,300,19.84501822,Swiggy,0.014333333
+The Bangalore Cafe,Bangalore,Shanti Nagar,"North, Indian, Chaat, Chinese, Pizzas, Desserts",4.1,400,18.92199412,Swiggy,0.01025
+Southly Healthy,Bangalore,Chickpet,"South, Indian, Healthy, Food",3.6,200,10.96028078,Swiggy,0.018
+Hotel Chandrika,Bangalore,Vasanth Nagar,"North, Indian, Chinese, Andhra, Biryani, Desserts, Ice, Cream, South, Indian, Beverages",4.3,300,19.84501822,Swiggy,0.014333333
+GAMA GAMA HOTEL,Bangalore,Basavanagudi,"Street, Food, South, Indian, Indian",4.4,150,20.30653027,Swiggy,0.029333333
+A1 Chips,Bangalore,Indiranagar,"Snacks, Sweets",4.5,250,20.76804233,Swiggy,0.018
+santhanam sweets,Bangalore,Shivaji Nagar,Sweets,4.3,200,19.84501822,Swiggy,0.0215
+Sera's Cuisine,Bangalore,Koramangala,"Indian, Biryani, Seafood",4.2,300,12.78699424,Swiggy,0.014
+Bakery by Foodhall,Bangalore,Ulsoor,"Bakery, Italian, Desserts",4.5,300,17.69321535,Swiggy,0.015
+Cold Stone Creamery,Bangalore,Ashok Nagar,"Ice, Cream, Desserts, Beverages",4.0,200,15.72730253,Swiggy,0.02
+Just Bake - Bakery Desserts Cakes & Confectioners,Bangalore,Banashankari,Desserts,3.9,400,15.33411997,Swiggy,0.00975
+Toscano's Crafted Cakes and Desserts,Bangalore,Ashok Nagar,"Desserts, Bakery",4.5,600,13.70035097,Swiggy,0.0075
+The Rice Bowl,Bangalore,Ashok Nagar,Chinese,4.2,450,19.38350617,Swiggy,0.009333333
+Karavali Family Restaurant,Bangalore,Ashok Nagar,"Mangalorean, Seafood, Chinese, Coastal",4.1,200,16.12048509,Swiggy,0.0205
+Jain and Veg Cuisines,Bangalore,Basavanagudi,"Indian, Jain, Beverages, Chinese",3.6,300,10.96028078,Swiggy,0.012
+Mudpipe Cafe,Bangalore,Vasanth Nagar,"Mexican, Continental",4.2,500,12.78699424,Swiggy,0.0084
+D-Zaprino,Bangalore,Malleswaram,"North, Indian, Continental, American, Desserts, Fast, Food, Italian, Beverages, Seafood",3.9,300,17.99897002,Swiggy,0.013
+That Pizza Place,Bangalore,Koramangala,"Pizzas, Italian, Fast, Food, Desserts, Continental, Mediterranean, American, Mexican, Indian, Combo, Beverages, Bakery, French, Sweets, European, Lebanese, Snacks",4.3,500,16.90685022,Swiggy,0.0086
+Giani Ice Cream,Bangalore,Indiranagar,"Ice, Cream, Beverages",4.3,300,16.90685022,Swiggy,0.014333333
+Dande's Hyderabad Biryani,Bangalore,Koramangala,"Biryani, Andhra, Hyderabadi, South, Indian, North, Indian, Tandoor, Beverages, Desserts",3.3,350,10.04692404,Swiggy,0.009428571
+Tiwari's Ghee Paratha & Chaat,Bangalore,Basavanagudi,Rajasthani,4.1,300,16.12048509,Swiggy,0.013666667
+Bamey's Restro Cafe,Bangalore,Koramangala,"Chinese, Thai, Nepalese",4.4,400,20.30653027,Swiggy,0.011
+Chuckling Chinese,Bangalore,Koramangala,"Chinese, Fast, Food",4.1,300,18.92199412,Swiggy,0.013666667
+Misu,Bangalore,Ashok Nagar,"Pan-Asian, Chinese, Vietnamese, Malaysian, Desserts, Singaporean, Sushi",4.4,1300,20.30653027,Swiggy,0.003384615
+A NAIDU'S OOTADA MANE,Bangalore,Indiranagar,Indian,3.6,250,14.15457228,Swiggy,0.0144
+Bob's Bar,Bangalore,Indiranagar,"South, Indian, North, Indian, Fast, Food, Desserts",4.3,300,19.84501822,Swiggy,0.014333333
+Cakewala,Bangalore,Jayanagar,Desserts,4.3,450,19.84501822,Swiggy,0.009555556
+Eden Park,Bangalore,Shivaji Nagar,"North, Indian, Chinese, Seafood, Andhra, Biryani, Desserts, Jain, Mughlai, South, Indian, Coastal, Beverages",4.2,1000,19.38350617,Swiggy,0.0042
+Kodial Cafe ( We Use Ideal Icecream ) Malleshwaram,Bangalore,Malleshwaram,"Mangalorean, Ice, Cream, Snacks",4.3,250,16.90685022,Swiggy,0.0172
+Shyvan Fast Food,Bangalore,Langford Gardens,"North, Indian, Chinese",4.7,200,14.30925546,Swiggy,0.0235
+Nadan Pothichoru,Bangalore,Koramangala,"South, Indian, Kerala, Biryani",3.4,200,13.36820715,Swiggy,0.017
+Go Native,Bangalore,Ashok Nagar,"Healthy, Food, Jain, North, Indian, South, Indian",4.2,600,19.38350617,Swiggy,0.007
+Kund Indian Barbeque,Bangalore,Indiranagar,"Mughlai, North, Indian, Biryani, Kebabs, Desserts",4.2,200,19.38350617,Swiggy,0.021
+La Heaven,Bangalore,Malleshwaram,"Desserts, Bakery, Beverages",4.1,384,18.92199412,Swiggy,0.010677083
+Chichabas Taj,Bangalore,Pulikeshi Nagar,"Mughlai, North, Indian, Biryani",4.2,532,19.38350617,Swiggy,0.007894737
+Andhra Mess,Bangalore,Domlur,"Andhra, South, Indian, Biryani, Chinese, Hyderabadi",3.7,250,17.07594591,Swiggy,0.0148
+Happy Belly Bakes- Cakes and Desserts,Bangalore,Ashok Nagar,"Desserts, Bakery, Beverages",4.7,350,21.69106643,Swiggy,0.013428571
+SWAGAT RESTAURANT,Bangalore,Rajajinagar,"Indian, Beverages, Ice, Cream",4.1,350,12.48254199,Swiggy,0.011714286
+Maiyas Restaurants,Bangalore,Jayanagar,"South, Indian, Fast, Food",4.3,250,26.73140623,Swiggy,0.0172
+LeanCrust Pizza - ThinCrust Experts,Bangalore,New Tippasandra,"Pizzas, Italian",3.5,350,13.76138971,Swiggy,0.01
+MANTAP ICE CREAM,Bangalore,Seshadripuram,"Ice, Cream",4.7,200,14.30925546,Swiggy,0.0235
+Fishland,Bangalore,Gandhi Nagar,"Seafood, North, Indian, Chinese",4.4,500,17.30003278,Swiggy,0.0088
+Singh Da Punjabi Dhaba,Bangalore,Koramangala,"Punjabi, Tandoor, Chinese",3.8,200,17.53745796,Swiggy,0.019
+Brahmins' Thatte Idli,Bangalore,Malleshwaram,"South, Indian, Combo",4.4,150,27.35306684,Swiggy,0.029333333
